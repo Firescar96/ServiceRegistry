@@ -253,7 +253,6 @@
 
 /* Begin PBXFileReference section */
 		1058C7ADFEA557BF11CA2CBB /* Cocoa.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Cocoa.framework; path = /System/Library/Frameworks/Cocoa.framework; sourceTree = "<absolute>"; };
-		2A98699D17505CE200D02912 /* Cocoa.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Cocoa.framework; path = System/Library/Frameworks/Cocoa.framework; sourceTree = SDKROOT; };
 		4F0C4FBA13CFA7E5007E5E92 /* GTLUploadParameters.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = GTLUploadParameters.h; path = Objects/GTLUploadParameters.h; sourceTree = "<group>"; };
 		4F0C4FBB13CFA7E5007E5E92 /* GTLUploadParameters.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = GTLUploadParameters.m; path = Objects/GTLUploadParameters.m; sourceTree = "<group>"; };
 		4F12027C11A4CA2F00BEB470 /* libGTLTouchStaticLib.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libGTLTouchStaticLib.a; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -410,7 +409,6 @@
 		089C166AFE841209C02AAC07 /* GoogleBundle */ = {
 			isa = PBXGroup;
 			children = (
-				2A98699D17505CE200D02912 /* Cocoa.framework */,
 				32C88E010371C26100C91783 /* GTL Source */,
 				4FCC7A1B11EFD9C80097924C /* Tests */,
 				4FA9C7410B72AB1600DA5920 /* Test Tool */,
