@@ -1,0 +1,1152 @@
+TService Registry
+v7
+r0
+t390684583.042108
+cCheck dependencies
+cProcessInfoPlistFile "/Users/nchindafam/Documents/AppTicks/Service Registry/build/Debug-iphonesimulator/Service Registry.app/Info.plist" "Service Registry/Service Registry-Info.plist"
+cProcessPCH "/var/folders/hf/dwbsg6_517q86ytfk22zbwg80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Service Registry-Prefix-bpyuklknqcvuacfwgyyhwmeglhcx/Service Registry-Prefix.pch.gch" "Service Registry/Service Registry-Prefix.pch" normal i386 objective-c com.apple.compilers.gcc.4_2
+cDataModelVersionCompile "/Users/nchindafam/Documents/AppTicks/Service Registry/build/Debug-iphonesimulator/Service Registry.app/Service_Registry.momd" "/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/Service_Registry.xcdatamodeld"
+cCompileC "build/Service Registry.build/Debug-iphonesimulator/Service Registry.build/Objects-normal/i386/main.o" "/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Service Registry.build/Debug-iphonesimulator/Service Registry.build/Objects-normal/i386/BtoothSync.o" "/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/BtoothSync.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Service Registry.build/Debug-iphonesimulator/Service Registry.build/Objects-normal/i386/Login.o" "/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/Login.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Service Registry.build/Debug-iphonesimulator/Service Registry.build/Objects-normal/i386/Menu.o" "/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/Menu.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Service Registry.build/Debug-iphonesimulator/Service Registry.build/Objects-normal/i386/NewRepForm.o" "/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/NewRepForm.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Service Registry.build/Debug-iphonesimulator/Service Registry.build/Objects-normal/i386/PrintPicker.o" "/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/PrintPicker.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Service Registry.build/Debug-iphonesimulator/Service Registry.build/Objects-normal/i386/PrintSearch.o" "/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/PrintSearch.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Service Registry.build/Debug-iphonesimulator/Service Registry.build/Objects-normal/i386/PrintSync.o" "/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/PrintSync.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Service Registry.build/Debug-iphonesimulator/Service Registry.build/Objects-normal/i386/PrintTable.o" "/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/PrintTable.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Service Registry.build/Debug-iphonesimulator/Service Registry.build/Objects-normal/i386/PrintTableView.o" "/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/PrintTableView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Service Registry.build/Debug-iphonesimulator/Service Registry.build/Objects-normal/i386/ReportsPage.o" "/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/ReportsPage.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Service Registry.build/Debug-iphonesimulator/Service Registry.build/Objects-normal/i386/ReportsPicker.o" "/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/ReportsPicker.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Service Registry.build/Debug-iphonesimulator/Service Registry.build/Objects-normal/i386/ReportsSearch.o" "/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/ReportsSearch.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Service Registry.build/Debug-iphonesimulator/Service Registry.build/Objects-normal/i386/ReportsTable.o" "/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/ReportsTable.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Service Registry.build/Debug-iphonesimulator/Service Registry.build/Objects-normal/i386/ReportsTableView.o" "/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/ReportsTableView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Service Registry.build/Debug-iphonesimulator/Service Registry.build/Objects-normal/i386/Service_RegistryAppDelegate.o" "/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/Service_RegistryAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Service Registry.build/Debug-iphonesimulator/Service Registry.build/Objects-normal/i386/Tools.o" "/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/Tools.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Service Registry.build/Debug-iphonesimulator/Service Registry.build/Objects-normal/i386/UserSearch.o" "/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/UserSearch.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Service Registry.build/Debug-iphonesimulator/Service Registry.build/Objects-normal/i386/UserTable.o" "/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/UserTable.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCopyStringsFile "/Users/nchindafam/Documents/AppTicks/Service Registry/build/Debug-iphonesimulator/Service Registry.app/en.lproj/InfoPlist.strings" "Service Registry/en.lproj/InfoPlist.strings"
+cCpResource "build/Debug-iphonesimulator/Service Registry.app/Default.png" "Service Registry/Default.png"
+cCpResource "build/Debug-iphonesimulator/Service Registry.app/Default@2x.png" "Service Registry/Default@2x.png"
+cCpResource "build/Debug-iphonesimulator/Service Registry.app/Default-568h@2x.png" "Service Registry/Default-568h@2x.png"
+cCpResource "build/Debug-iphonesimulator/Service Registry.app/Headers" ../../../../../Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/System/Library/Frameworks/GameKit.framework/Headers
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+c000000004D5C9B4E0000000000000110
+t1297914702
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreData.framework/CoreData
+c000000004D54D02800000000001D6EC0
+t1297403944
+s1928896
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreData.framework/Headers/CoreData.h
+c000000004D54D01A000000000000046B
+t1297403930
+s1131
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D54CFFA00000000002999B0
+t1297403898
+s2726320
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.h
+c000000004D54D0E100000000000008C5
+t1297404129
+s2245
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D54CFE5000000000029DA70
+t1297403877
+s2742896
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D54CFB80000000000001466
+t1297403832
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/GameKit.framework/GameKit
+c000000004D5DE8B8000000000018FBB0
+t1298000056
+s1637296
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/GameKit.framework/Headers/GameKit.h
+c000000004D5DE8A60000000000000348
+t1298000038
+s840
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
+c000000004D54D2DD00000000000000C4
+t1297404637
+s196
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Security.framework/Security
+c000000004D54CEFE0000000000088380
+t1297403646
+s557952
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/SystemConfiguration.framework/SystemConfiguration
+c000000004D54CF0700000000000689C0
+t1297403655
+s428480
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D5615B40000000000000AA1
+t1297487284
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D5616030000000000766870
+t1297487363
+s7759984
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include/Availability.h
+c000000004D4F7A2B0000000000001B19
+t1297054251
+s6937
+
+N/Users/nchindafam/Documents/AppTicks/Service Registry/../../../../../Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/System/Library/Frameworks/GameKit.framework/Headers
+c0000000050E4F65E00000000000003FC
+t1357182558
+s1020
+
+N/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/BtoothSync.m
+c00000000519921F70000000000002555
+t1368990199
+s9557
+i"BtoothSync.h"
+
+N/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/Login.m
+c00000000519922600000000000001014
+t1368990304
+s4116
+i"Login.h"
+
+N/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/Menu.m
+c00000000519922610000000000000910
+t1368990305
+s2320
+i"Menu.h"
+
+N/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/NewRepForm.m
+c00000000519922610000000000002E3A
+t1368990305
+s11834
+i"NewRepForm.h"
+
+N/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/PrintPicker.m
+c000000005199224C0000000000000323
+t1368990284
+s803
+i"PrintPicker.h"
+
+N/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/PrintSearch.m
+c000000005199224C0000000000000461
+t1368990284
+s1121
+i"PrintSearch.h"
+i"PrintTable.h"
+
+N/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/PrintSync.m
+c00000000519922A700000000000110DE
+t1368990375
+s69854
+i"PrintSync.h"
+
+N/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/PrintTable.m
+c000000005199224C0000000000003121
+t1368990284
+s12577
+i"PrintTable.h"
+i"Service_RegistryAppDelegate.h"
+
+N/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/PrintTableView.m
+c0000000051992274000000000000029F
+t1368990324
+s671
+i"PrintTableView.h"
+
+N/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/ReportsPage.m
+c00000000519922740000000000001094
+t1368990324
+s4244
+i"ReportsPage.h"
+
+N/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/ReportsPicker.m
+c00000000519922730000000000000315
+t1368990323
+s789
+i"ReportsPicker.h"
+
+N/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/ReportsSearch.m
+c000000005199227C00000000000002C6
+t1368990332
+s710
+i"ReportsSearch.h"
+i"ReportsTable.h"
+
+N/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/ReportsTable.m
+c000000005199228D000000000000642F
+t1368990349
+s25647
+i"ReportsTable.h"
+i"Service_RegistryAppDelegate.h"
+
+N/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/ReportsTableView.m
+c000000005199227C0000000000000299
+t1368990332
+s665
+i"ReportsTableView.h"
+
+N/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/Service_RegistryAppDelegate.m
+c000000005199228D00000000000020F0
+t1368990349
+s8432
+i"Service_RegistryAppDelegate.h"
+
+N/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/Tools.m
+c000000005199229B00000000000011B2
+t1368990363
+s4530
+i"Tools.h"
+
+N/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/UserSearch.m
+c000000005199229B00000000000002A0
+t1368990363
+s672
+i"UserSearch.h"
+
+N/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/UserTable.m
+c000000005199228D00000000000026DF
+t1368990349
+s9951
+i"UserTable.h"
+i"Service_RegistryAppDelegate.h"
+
+N/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/Default-568h@2x.png
+c00000000515C9E6200000000000048A2
+t1365024354
+s18594
+
+N/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/Default.png
+c00000000515C9E62000000000000198C
+t1365024354
+s6540
+
+N/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/Default@2x.png
+c00000000515C9E620000000000003EEB
+t1365024354
+s16107
+
+N/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/Service Registry-Prefix.pch
+c000000005198AAA90000000000000171
+t1368959657
+s369
+i<Availability.h>
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+i<CoreData/CoreData.h>
+
+N/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/Service_Registry.xcdatamodeld
+c00000000519927650000000000000088
+t1368991589
+s136
+
+N/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/en.lproj/InfoPlist.strings
+c000000005198AAA9000000000000002D
+t1368959657
+s45
+
+N/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/main.m
+c000000005198AAA9000000000000015D
+t1368959657
+s349
+i<UIKit/UIKit.h>
+i"AppDelegate.h"
+
+N/Users/nchindafam/Documents/AppTicks/Service Registry/build/Debug-iphonesimulator/Service Registry.app
+t2
+s0
+
+N/Users/nchindafam/Documents/AppTicks/Service Registry/build/Debug-iphonesimulator/Service Registry.app.dSYM
+t2
+s0
+
+N/Users/nchindafam/Documents/AppTicks/Service Registry/build/Debug-iphonesimulator/Service Registry.app/Default-568h@2x.png
+t1368991782
+s18594
+
+N/Users/nchindafam/Documents/AppTicks/Service Registry/build/Debug-iphonesimulator/Service Registry.app/Default.png
+t1368991782
+s6540
+
+N/Users/nchindafam/Documents/AppTicks/Service Registry/build/Debug-iphonesimulator/Service Registry.app/Default@2x.png
+t1368991782
+s16107
+
+N/Users/nchindafam/Documents/AppTicks/Service Registry/build/Debug-iphonesimulator/Service Registry.app/Headers
+t1368991782
+s1020
+
+N/Users/nchindafam/Documents/AppTicks/Service Registry/build/Debug-iphonesimulator/Service Registry.app/Info.plist
+t1368991779
+s882
+
+N/Users/nchindafam/Documents/AppTicks/Service Registry/build/Debug-iphonesimulator/Service Registry.app/PkgInfo
+t1368991779
+s8
+
+N/Users/nchindafam/Documents/AppTicks/Service Registry/build/Debug-iphonesimulator/Service Registry.app/Service Registry
+t2
+s0
+
+N/Users/nchindafam/Documents/AppTicks/Service Registry/build/Debug-iphonesimulator/Service Registry.app/Service_Registry.momd
+t1368991782
+s136
+
+N/Users/nchindafam/Documents/AppTicks/Service Registry/build/Debug-iphonesimulator/Service Registry.app/en.lproj/InfoPlist.strings
+t1368991783
+s42
+
+N/Users/nchindafam/Documents/AppTicks/Service Registry/build/Service Registry.build/Debug-iphonesimulator/Service Registry.build/Objects-normal/i386/BtoothSync.o
+t1368991781
+s80376
+
+N/Users/nchindafam/Documents/AppTicks/Service Registry/build/Service Registry.build/Debug-iphonesimulator/Service Registry.build/Objects-normal/i386/Login.o
+t1368991781
+s61316
+
+N/Users/nchindafam/Documents/AppTicks/Service Registry/build/Service Registry.build/Debug-iphonesimulator/Service Registry.build/Objects-normal/i386/Menu.o
+t1368991781
+s55840
+
+N/Users/nchindafam/Documents/AppTicks/Service Registry/build/Service Registry.build/Debug-iphonesimulator/Service Registry.build/Objects-normal/i386/NewRepForm.o
+t1368991781
+s148676
+
+N/Users/nchindafam/Documents/AppTicks/Service Registry/build/Service Registry.build/Debug-iphonesimulator/Service Registry.build/Objects-normal/i386/PrintPicker.o
+t1368991781
+s44872
+
+N/Users/nchindafam/Documents/AppTicks/Service Registry/build/Service Registry.build/Debug-iphonesimulator/Service Registry.build/Objects-normal/i386/PrintSearch.o
+t1368991781
+s51652
+
+N/Users/nchindafam/Documents/AppTicks/Service Registry/build/Service Registry.build/Debug-iphonesimulator/Service Registry.build/Objects-normal/i386/PrintSync.o
+t2
+s0
+
+N/Users/nchindafam/Documents/AppTicks/Service Registry/build/Service Registry.build/Debug-iphonesimulator/Service Registry.build/Objects-normal/i386/PrintTable.o
+t1368991781
+s149368
+
+N/Users/nchindafam/Documents/AppTicks/Service Registry/build/Service Registry.build/Debug-iphonesimulator/Service Registry.build/Objects-normal/i386/PrintTableView.o
+t1368991782
+s49560
+
+N/Users/nchindafam/Documents/AppTicks/Service Registry/build/Service Registry.build/Debug-iphonesimulator/Service Registry.build/Objects-normal/i386/ReportsPage.o
+t1368991781
+s80764
+
+N/Users/nchindafam/Documents/AppTicks/Service Registry/build/Service Registry.build/Debug-iphonesimulator/Service Registry.build/Objects-normal/i386/ReportsPicker.o
+t1368991781
+s44636
+
+N/Users/nchindafam/Documents/AppTicks/Service Registry/build/Service Registry.build/Debug-iphonesimulator/Service Registry.build/Objects-normal/i386/ReportsSearch.o
+t1368991781
+s53332
+
+N/Users/nchindafam/Documents/AppTicks/Service Registry/build/Service Registry.build/Debug-iphonesimulator/Service Registry.build/Objects-normal/i386/ReportsTable.o
+t1368991782
+s206056
+
+N/Users/nchindafam/Documents/AppTicks/Service Registry/build/Service Registry.build/Debug-iphonesimulator/Service Registry.build/Objects-normal/i386/ReportsTableView.o
+t1368991781
+s49436
+
+N/Users/nchindafam/Documents/AppTicks/Service Registry/build/Service Registry.build/Debug-iphonesimulator/Service Registry.build/Objects-normal/i386/Service Registry.LinkFileList
+c00000000519928230000000000000C01
+t1368991779
+s3073
+
+N/Users/nchindafam/Documents/AppTicks/Service Registry/build/Service Registry.build/Debug-iphonesimulator/Service Registry.build/Objects-normal/i386/Service_RegistryAppDelegate.o
+t1368991782
+s79116
+
+N/Users/nchindafam/Documents/AppTicks/Service Registry/build/Service Registry.build/Debug-iphonesimulator/Service Registry.build/Objects-normal/i386/Tools.o
+t1368991782
+s69004
+
+N/Users/nchindafam/Documents/AppTicks/Service Registry/build/Service Registry.build/Debug-iphonesimulator/Service Registry.build/Objects-normal/i386/UserSearch.o
+t1368991782
+s50276
+
+N/Users/nchindafam/Documents/AppTicks/Service Registry/build/Service Registry.build/Debug-iphonesimulator/Service Registry.build/Objects-normal/i386/UserTable.o
+t1368991782
+s88648
+
+N/Users/nchindafam/Documents/AppTicks/Service Registry/build/Service Registry.build/Debug-iphonesimulator/Service Registry.build/Objects-normal/i386/main.o
+t2
+s0
+
+N/Users/nchindafam/Documents/AppTicks/ServiceRegistry/Classes/BtoothSync.h
+c0000000051988C8D0000000000000324
+t1368951949
+s804
+i<UIKit/UIKit.h>
+i<GameKit/GameKit.h>
+i"Service_RegistryAppDelegate.h"
+
+N/Users/nchindafam/Documents/AppTicks/ServiceRegistry/Classes/Login.h
+c0000000051988C8D00000000000002CA
+t1368951949
+s714
+i<UIKit/UIKit.h>
+i"Service_RegistryAppDelegate.h"
+i"UserTable.h"
+
+N/Users/nchindafam/Documents/AppTicks/ServiceRegistry/Classes/Menu.h
+c000000005199139800000000000002FC
+t1368986520
+s764
+i<UIKit/UIKit.h>
+i"Service_RegistryAppDelegate.h"
+
+N/Users/nchindafam/Documents/AppTicks/ServiceRegistry/Classes/NewRepForm.h
+c0000000051988C8D0000000000001709
+t1368951949
+s5897
+i<UIKit/UIKit.h>
+i"Service_RegistryAppDelegate.h"
+
+N/Users/nchindafam/Documents/AppTicks/ServiceRegistry/Classes/PrintPicker.h
+c0000000051988C8D0000000000000181
+t1368951949
+s385
+i<UIKit/UIKit.h>
+
+N/Users/nchindafam/Documents/AppTicks/ServiceRegistry/Classes/PrintSearch.h
+c0000000051988C8D00000000000001BF
+t1368951949
+s447
+i<UIKit/UIKit.h>
+i"PrintTable.h"
+
+N/Users/nchindafam/Documents/AppTicks/ServiceRegistry/Classes/PrintSync.h
+c0000000051988C8D0000000000000707
+t1368951949
+s1799
+i<UIKit/UIKit.h>
+i<QuartzCore/QuartzCore.h>
+i<CoreText/CoreText.h>
+i"Service_RegistryAppDelegate.h"
+i"PrintTable.h"
+
+N/Users/nchindafam/Documents/AppTicks/ServiceRegistry/Classes/PrintTable.h
+c0000000051988C8D000000000000128A
+t1368951949
+s4746
+i<UIKit/UIKit.h>
+i"Service_RegistryAppDelegate.h"
+
+N/Users/nchindafam/Documents/AppTicks/ServiceRegistry/Classes/PrintTableView.h
+c0000000051988C8D00000000000001A7
+t1368951949
+s423
+i<UIKit/UIKit.h>
+i"PrintSync.h"
+
+N/Users/nchindafam/Documents/AppTicks/ServiceRegistry/Classes/ReportsPage.h
+c0000000051988C8D0000000000000466
+t1368951949
+s1126
+i<UIKit/UIKit.h>
+i"ReportsTable.h"
+i"ReportsSearch.h"
+
+N/Users/nchindafam/Documents/AppTicks/ServiceRegistry/Classes/ReportsPicker.h
+c0000000051988C8D0000000000000183
+t1368951949
+s387
+i<UIKit/UIKit.h>
+
+N/Users/nchindafam/Documents/AppTicks/ServiceRegistry/Classes/ReportsSearch.h
+c0000000051988C8D00000000000001CC
+t1368951949
+s460
+i<UIKit/UIKit.h>
+i"ReportsTable.h"
+
+N/Users/nchindafam/Documents/AppTicks/ServiceRegistry/Classes/ReportsTable.h
+c0000000051988C8D0000000000001CAF
+t1368951949
+s7343
+i<UIKit/UIKit.h>
+i"Service_RegistryAppDelegate.h"
+
+N/Users/nchindafam/Documents/AppTicks/ServiceRegistry/Classes/ReportsTableView.h
+c0000000051988C8D0000000000000177
+t1368951949
+s375
+i<UIKit/UIKit.h>
+i"ReportsTable.h"
+i"ReportsPage.h"
+
+N/Users/nchindafam/Documents/AppTicks/ServiceRegistry/Classes/Service_RegistryAppDelegate.h
+c0000000051988C8D00000000000006F9
+t1368951949
+s1785
+i<UIKit/UIKit.h>
+i<CoreData/CoreData.h>
+
+N/Users/nchindafam/Documents/AppTicks/ServiceRegistry/Classes/Tools.h
+c0000000051988C8D00000000000004D6
+t1368951949
+s1238
+i<UIKit/UIKit.h>
+i"Service_RegistryAppDelegate.h"
+i"Menu.h"
+
+N/Users/nchindafam/Documents/AppTicks/ServiceRegistry/Classes/UserSearch.h
+c0000000051988C8D00000000000001BB
+t1368951949
+s443
+i<UIKit/UIKit.h>
+i"UserTable.h"
+
+N/Users/nchindafam/Documents/AppTicks/ServiceRegistry/Classes/UserTable.h
+c0000000051988C8D00000000000004BF
+t1368951949
+s1215
+i<UIKit/UIKit.h>
+i"Service_RegistryAppDelegate.h"
+
+N/var/folders/hf/dwbsg6_517q86ytfk22zbwg80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Service Registry-Prefix-bpyuklknqcvuacfwgyyhwmeglhcx/Service Registry-Prefix.pch.gch
+t1368991780
+s16707792
+
+NService Registry/Service Registry-Info.plist
+c000000005198AAA900000000000004CE
+t1368959657
+s1230
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies390684579#390684579#0(0"0(0#1#0"17250021376#0"0#
+
+CCompileC "build/Service Registry.build/Debug-iphonesimulator/Service Registry.build/Objects-normal/i386/BtoothSync.o" "/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/BtoothSync.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s390684580.832995
+e390684581.657341
+r1
+xCompileC
+xbuild/Service Registry.build/Debug-iphonesimulator/Service Registry.build/Objects-normal/i386/BtoothSync.o
+x/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/BtoothSync.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+occ1obj: warning: -Wuninitialized is not supported without -O
+o/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/BtoothSync.m: In function '-[BtoothSync receiveData:fromPeer:inSession:context:]':
+o/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/BtoothSync.m:146: warning: implicit declaration of function 'CFBridgingRelease'
+o/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/BtoothSync.m:146: warning: passing argument 2 of 'insertNewObjectForEntityForName:inManagedObjectContext:' makes pointer from integer without a cast
+o/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/BtoothSync.m: At top level:
+o/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/BtoothSync.m:241: warning: method possibly missing a [super dealloc] call
+lSLF07#2@121"Compile /Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/BtoothSync.m390684580#390684581#0(980"cc1obj: warning: -Wuninitialized is not supported without -O/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/BtoothSync.m: In function '-[BtoothSync receiveData:fromPeer:inSession:context:]':/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/BtoothSync.m:146: warning: implicit declaration of function 'CFBridgingRelease'/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/BtoothSync.m:146: warning: passing argument 2 of 'insertNewObjectForEntityForName:inManagedObjectContext:' makes pointer from integer without a cast/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/BtoothSync.m: At top level:/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/BtoothSync.m:241: warning: method possibly missing a [super dealloc] call5(22@43"-Wuninitialized is not supported without -O390684580#0#61#0(6@0"390684580#0#0#0#0#0"0(22@52"Implicit declaration of function 'CFBridgingRelease'390684581#245#181#0(6@113"/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/BtoothSync.m390682999#146#0#146#0#36"implicit declaration of function '*'0(22@121"Passing argument 2 of 'insertNewObjectForEntityForName:inManagedObjectContext:' makes pointer from integer without a cast390684581#426#250#0(6@113"/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/BtoothSync.m390682999#146#0#146#0#0"0(23@13"At top level:390684581#676#129#0(6@113"/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/BtoothSync.m390682999#0#0#0#0#0"0(22@46"Method possibly missing a [super dealloc] call390684581#805#175#0(6@113"/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/BtoothSync.m390682999#241#0#241#0#46"method possibly missing a [super dealloc] call0(0#0#113"/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/BtoothSync.m4317974528#2413"    cd "/Users/nchindafam/Documents/AppTicks/Service Registry"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -Wuninitialized -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/nchindafam/Documents/AppTicks/Service Registry/build/Service Registry.build/Debug-iphonesimulator/Service Registry.build/Service Registry-generated-files.hmap" "-I/Users/nchindafam/Documents/AppTicks/Service Registry/build/Service Registry.build/Debug-iphonesimulator/Service Registry.build/Service Registry-own-target-headers.hmap" "-I/Users/nchindafam/Documents/AppTicks/Service Registry/build/Service Registry.build/Debug-iphonesimulator/Service Registry.build/Service Registry-all-target-headers.hmap" -iquote "/Users/nchindafam/Documents/AppTicks/Service Registry/build/Service Registry.build/Debug-iphonesimulator/Service Registry.build/Service Registry-project-headers.hmap" "-F/Users/nchindafam/Documents/AppTicks/Service Registry/build/Debug-iphonesimulator" "-I/Users/nchindafam/Documents/AppTicks/Service Registry/build/Debug-iphonesimulator/include" "-I/Users/nchindafam/Documents/AppTicks/Service Registry/build/Service Registry.build/Debug-iphonesimulator/Service Registry.build/DerivedSources/i386" "-I/Users/nchindafam/Documents/AppTicks/Service Registry/build/Service Registry.build/Debug-iphonesimulator/Service Registry.build/DerivedSources" -DGDATA_REQUIRE_SERVICE_INCLUDES=1 -DGDATA_INCLUDE_DRIVE_SERVICE=1 -include "/var/folders/hf/dwbsg6_517q86ytfk22zbwg80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Service Registry-Prefix-bpyuklknqcvuacfwgyyhwmeglhcx/Service Registry-Prefix.pch" -c "/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/BtoothSync.m" -o "/Users/nchindafam/Documents/AppTicks/Service Registry/build/Service Registry.build/Debug-iphonesimulator/Service Registry.build/Objects-normal/i386/BtoothSync.o"0#
+
+CCompileC "build/Service Registry.build/Debug-iphonesimulator/Service Registry.build/Objects-normal/i386/Login.o" "/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/Login.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s390684580.834050
+e390684581.645219
+r1
+xCompileC
+xbuild/Service Registry.build/Debug-iphonesimulator/Service Registry.build/Objects-normal/i386/Login.o
+x/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/Login.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+occ1obj: warning: -Wuninitialized is not supported without -O
+lSLF07#2@116"Compile /Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/Login.m390684580#390684581#0(61"cc1obj: warning: -Wuninitialized is not supported without -O1(22@43"-Wuninitialized is not supported without -O390684580#0#61#0(6@0"390684580#0#0#0#0#0"0(0#0#108"/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/Login.m4317974528#2403"    cd "/Users/nchindafam/Documents/AppTicks/Service Registry"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -Wuninitialized -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/nchindafam/Documents/AppTicks/Service Registry/build/Service Registry.build/Debug-iphonesimulator/Service Registry.build/Service Registry-generated-files.hmap" "-I/Users/nchindafam/Documents/AppTicks/Service Registry/build/Service Registry.build/Debug-iphonesimulator/Service Registry.build/Service Registry-own-target-headers.hmap" "-I/Users/nchindafam/Documents/AppTicks/Service Registry/build/Service Registry.build/Debug-iphonesimulator/Service Registry.build/Service Registry-all-target-headers.hmap" -iquote "/Users/nchindafam/Documents/AppTicks/Service Registry/build/Service Registry.build/Debug-iphonesimulator/Service Registry.build/Service Registry-project-headers.hmap" "-F/Users/nchindafam/Documents/AppTicks/Service Registry/build/Debug-iphonesimulator" "-I/Users/nchindafam/Documents/AppTicks/Service Registry/build/Debug-iphonesimulator/include" "-I/Users/nchindafam/Documents/AppTicks/Service Registry/build/Service Registry.build/Debug-iphonesimulator/Service Registry.build/DerivedSources/i386" "-I/Users/nchindafam/Documents/AppTicks/Service Registry/build/Service Registry.build/Debug-iphonesimulator/Service Registry.build/DerivedSources" -DGDATA_REQUIRE_SERVICE_INCLUDES=1 -DGDATA_INCLUDE_DRIVE_SERVICE=1 -include "/var/folders/hf/dwbsg6_517q86ytfk22zbwg80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Service Registry-Prefix-bpyuklknqcvuacfwgyyhwmeglhcx/Service Registry-Prefix.pch" -c "/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/Login.m" -o "/Users/nchindafam/Documents/AppTicks/Service Registry/build/Service Registry.build/Debug-iphonesimulator/Service Registry.build/Objects-normal/i386/Login.o"0#
+
+CCompileC "build/Service Registry.build/Debug-iphonesimulator/Service Registry.build/Objects-normal/i386/Menu.o" "/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/Menu.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s390684580.834893
+e390684581.645396
+r1
+xCompileC
+xbuild/Service Registry.build/Debug-iphonesimulator/Service Registry.build/Objects-normal/i386/Menu.o
+x/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/Menu.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+occ1obj: warning: -Wuninitialized is not supported without -O
+lSLF07#2@115"Compile /Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/Menu.m390684580#390684581#0(61"cc1obj: warning: -Wuninitialized is not supported without -O1(22@43"-Wuninitialized is not supported without -O390684580#0#61#0(6@0"390684580#0#0#0#0#0"0(0#0#107"/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/Menu.m4317974528#2401"    cd "/Users/nchindafam/Documents/AppTicks/Service Registry"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -Wuninitialized -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/nchindafam/Documents/AppTicks/Service Registry/build/Service Registry.build/Debug-iphonesimulator/Service Registry.build/Service Registry-generated-files.hmap" "-I/Users/nchindafam/Documents/AppTicks/Service Registry/build/Service Registry.build/Debug-iphonesimulator/Service Registry.build/Service Registry-own-target-headers.hmap" "-I/Users/nchindafam/Documents/AppTicks/Service Registry/build/Service Registry.build/Debug-iphonesimulator/Service Registry.build/Service Registry-all-target-headers.hmap" -iquote "/Users/nchindafam/Documents/AppTicks/Service Registry/build/Service Registry.build/Debug-iphonesimulator/Service Registry.build/Service Registry-project-headers.hmap" "-F/Users/nchindafam/Documents/AppTicks/Service Registry/build/Debug-iphonesimulator" "-I/Users/nchindafam/Documents/AppTicks/Service Registry/build/Debug-iphonesimulator/include" "-I/Users/nchindafam/Documents/AppTicks/Service Registry/build/Service Registry.build/Debug-iphonesimulator/Service Registry.build/DerivedSources/i386" "-I/Users/nchindafam/Documents/AppTicks/Service Registry/build/Service Registry.build/Debug-iphonesimulator/Service Registry.build/DerivedSources" -DGDATA_REQUIRE_SERVICE_INCLUDES=1 -DGDATA_INCLUDE_DRIVE_SERVICE=1 -include "/var/folders/hf/dwbsg6_517q86ytfk22zbwg80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Service Registry-Prefix-bpyuklknqcvuacfwgyyhwmeglhcx/Service Registry-Prefix.pch" -c "/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/Menu.m" -o "/Users/nchindafam/Documents/AppTicks/Service Registry/build/Service Registry.build/Debug-iphonesimulator/Service Registry.build/Objects-normal/i386/Menu.o"0#
+
+CCompileC "build/Service Registry.build/Debug-iphonesimulator/Service Registry.build/Objects-normal/i386/NewRepForm.o" "/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/NewRepForm.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s390684580.835873
+e390684581.657516
+r1
+xCompileC
+xbuild/Service Registry.build/Debug-iphonesimulator/Service Registry.build/Objects-normal/i386/NewRepForm.o
+x/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/NewRepForm.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+occ1obj: warning: -Wuninitialized is not supported without -O
+lSLF07#2@121"Compile /Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/NewRepForm.m390684580#390684581#0(61"cc1obj: warning: -Wuninitialized is not supported without -O1(22@43"-Wuninitialized is not supported without -O390684580#0#61#0(6@0"390684580#0#0#0#0#0"0(0#0#113"/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/NewRepForm.m4317974528#2413"    cd "/Users/nchindafam/Documents/AppTicks/Service Registry"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -Wuninitialized -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/nchindafam/Documents/AppTicks/Service Registry/build/Service Registry.build/Debug-iphonesimulator/Service Registry.build/Service Registry-generated-files.hmap" "-I/Users/nchindafam/Documents/AppTicks/Service Registry/build/Service Registry.build/Debug-iphonesimulator/Service Registry.build/Service Registry-own-target-headers.hmap" "-I/Users/nchindafam/Documents/AppTicks/Service Registry/build/Service Registry.build/Debug-iphonesimulator/Service Registry.build/Service Registry-all-target-headers.hmap" -iquote "/Users/nchindafam/Documents/AppTicks/Service Registry/build/Service Registry.build/Debug-iphonesimulator/Service Registry.build/Service Registry-project-headers.hmap" "-F/Users/nchindafam/Documents/AppTicks/Service Registry/build/Debug-iphonesimulator" "-I/Users/nchindafam/Documents/AppTicks/Service Registry/build/Debug-iphonesimulator/include" "-I/Users/nchindafam/Documents/AppTicks/Service Registry/build/Service Registry.build/Debug-iphonesimulator/Service Registry.build/DerivedSources/i386" "-I/Users/nchindafam/Documents/AppTicks/Service Registry/build/Service Registry.build/Debug-iphonesimulator/Service Registry.build/DerivedSources" -DGDATA_REQUIRE_SERVICE_INCLUDES=1 -DGDATA_INCLUDE_DRIVE_SERVICE=1 -include "/var/folders/hf/dwbsg6_517q86ytfk22zbwg80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Service Registry-Prefix-bpyuklknqcvuacfwgyyhwmeglhcx/Service Registry-Prefix.pch" -c "/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/NewRepForm.m" -o "/Users/nchindafam/Documents/AppTicks/Service Registry/build/Service Registry.build/Debug-iphonesimulator/Service Registry.build/Objects-normal/i386/NewRepForm.o"0#
+
+CCompileC "build/Service Registry.build/Debug-iphonesimulator/Service Registry.build/Objects-normal/i386/PrintPicker.o" "/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/PrintPicker.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s390684580.836828
+e390684581.564437
+r1
+xCompileC
+xbuild/Service Registry.build/Debug-iphonesimulator/Service Registry.build/Objects-normal/i386/PrintPicker.o
+x/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/PrintPicker.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+occ1obj: warning: -Wuninitialized is not supported without -O
+o/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/PrintPicker.m:41: warning: method possibly missing a [super dealloc] call
+lSLF07#2@122"Compile /Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/PrintPicker.m390684580#390684581#0(236"cc1obj: warning: -Wuninitialized is not supported without -O/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/PrintPicker.m:41: warning: method possibly missing a [super dealloc] call2(22@43"-Wuninitialized is not supported without -O390684580#0#61#0(6@0"390684580#0#0#0#0#0"0(22@46"Method possibly missing a [super dealloc] call390684581#61#175#0(6@114"/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/PrintPicker.m390683084#41#0#41#0#46"method possibly missing a [super dealloc] call0(0#0#114"/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/PrintPicker.m4317974528#2415"    cd "/Users/nchindafam/Documents/AppTicks/Service Registry"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -Wuninitialized -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/nchindafam/Documents/AppTicks/Service Registry/build/Service Registry.build/Debug-iphonesimulator/Service Registry.build/Service Registry-generated-files.hmap" "-I/Users/nchindafam/Documents/AppTicks/Service Registry/build/Service Registry.build/Debug-iphonesimulator/Service Registry.build/Service Registry-own-target-headers.hmap" "-I/Users/nchindafam/Documents/AppTicks/Service Registry/build/Service Registry.build/Debug-iphonesimulator/Service Registry.build/Service Registry-all-target-headers.hmap" -iquote "/Users/nchindafam/Documents/AppTicks/Service Registry/build/Service Registry.build/Debug-iphonesimulator/Service Registry.build/Service Registry-project-headers.hmap" "-F/Users/nchindafam/Documents/AppTicks/Service Registry/build/Debug-iphonesimulator" "-I/Users/nchindafam/Documents/AppTicks/Service Registry/build/Debug-iphonesimulator/include" "-I/Users/nchindafam/Documents/AppTicks/Service Registry/build/Service Registry.build/Debug-iphonesimulator/Service Registry.build/DerivedSources/i386" "-I/Users/nchindafam/Documents/AppTicks/Service Registry/build/Service Registry.build/Debug-iphonesimulator/Service Registry.build/DerivedSources" -DGDATA_REQUIRE_SERVICE_INCLUDES=1 -DGDATA_INCLUDE_DRIVE_SERVICE=1 -include "/var/folders/hf/dwbsg6_517q86ytfk22zbwg80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Service Registry-Prefix-bpyuklknqcvuacfwgyyhwmeglhcx/Service Registry-Prefix.pch" -c "/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/PrintPicker.m" -o "/Users/nchindafam/Documents/AppTicks/Service Registry/build/Service Registry.build/Debug-iphonesimulator/Service Registry.build/Objects-normal/i386/PrintPicker.o"0#
+
+CCompileC "build/Service Registry.build/Debug-iphonesimulator/Service Registry.build/Objects-normal/i386/PrintSearch.o" "/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/PrintSearch.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s390684580.837866
+e390684581.645542
+r1
+xCompileC
+xbuild/Service Registry.build/Debug-iphonesimulator/Service Registry.build/Objects-normal/i386/PrintSearch.o
+x/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/PrintSearch.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+occ1obj: warning: -Wuninitialized is not supported without -O
+o/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/PrintSearch.m:49: warning: method possibly missing a [super dealloc] call
+lSLF07#2@122"Compile /Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/PrintSearch.m390684580#390684581#0(236"cc1obj: warning: -Wuninitialized is not supported without -O/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/PrintSearch.m:49: warning: method possibly missing a [super dealloc] call2(22@43"-Wuninitialized is not supported without -O390684580#0#61#0(6@0"390684580#0#0#0#0#0"0(22@46"Method possibly missing a [super dealloc] call390684581#61#175#0(6@114"/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/PrintSearch.m390683084#49#0#49#0#46"method possibly missing a [super dealloc] call0(0#0#114"/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/PrintSearch.m4317974528#2415"    cd "/Users/nchindafam/Documents/AppTicks/Service Registry"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -Wuninitialized -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/nchindafam/Documents/AppTicks/Service Registry/build/Service Registry.build/Debug-iphonesimulator/Service Registry.build/Service Registry-generated-files.hmap" "-I/Users/nchindafam/Documents/AppTicks/Service Registry/build/Service Registry.build/Debug-iphonesimulator/Service Registry.build/Service Registry-own-target-headers.hmap" "-I/Users/nchindafam/Documents/AppTicks/Service Registry/build/Service Registry.build/Debug-iphonesimulator/Service Registry.build/Service Registry-all-target-headers.hmap" -iquote "/Users/nchindafam/Documents/AppTicks/Service Registry/build/Service Registry.build/Debug-iphonesimulator/Service Registry.build/Service Registry-project-headers.hmap" "-F/Users/nchindafam/Documents/AppTicks/Service Registry/build/Debug-iphonesimulator" "-I/Users/nchindafam/Documents/AppTicks/Service Registry/build/Debug-iphonesimulator/include" "-I/Users/nchindafam/Documents/AppTicks/Service Registry/build/Service Registry.build/Debug-iphonesimulator/Service Registry.build/DerivedSources/i386" "-I/Users/nchindafam/Documents/AppTicks/Service Registry/build/Service Registry.build/Debug-iphonesimulator/Service Registry.build/DerivedSources" -DGDATA_REQUIRE_SERVICE_INCLUDES=1 -DGDATA_INCLUDE_DRIVE_SERVICE=1 -include "/var/folders/hf/dwbsg6_517q86ytfk22zbwg80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Service Registry-Prefix-bpyuklknqcvuacfwgyyhwmeglhcx/Service Registry-Prefix.pch" -c "/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/PrintSearch.m" -o "/Users/nchindafam/Documents/AppTicks/Service Registry/build/Service Registry.build/Debug-iphonesimulator/Service Registry.build/Objects-normal/i386/PrintSearch.o"0#
+
+CCompileC "build/Service Registry.build/Debug-iphonesimulator/Service Registry.build/Objects-normal/i386/PrintSync.o" "/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/PrintSync.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s390684581.369811
+e390684582.220486
+r0
+xCompileC
+xbuild/Service Registry.build/Debug-iphonesimulator/Service Registry.build/Objects-normal/i386/PrintSync.o
+x/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/PrintSync.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+occ1obj: warning: -Wuninitialized is not supported without -O
+o/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/PrintSync.m: In function '-[PrintSync drawMP]':
+o/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/PrintSync.m:160: error: 'NSLineBreakByWordWrapping' undeclared (first use in this function)
+o/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/PrintSync.m:160: error: (Each undeclared identifier is reported only once
+o/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/PrintSync.m:160: error: for each function it appears in.)
+o/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/PrintSync.m:161: error: 'NSTextAlignmentLeft' undeclared (first use in this function)
+o/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/PrintSync.m: In function '-[PrintSync drawBI]':
+o/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/PrintSync.m:198: error: 'NSLineBreakByClipping' undeclared (first use in this function)
+o/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/PrintSync.m:199: error: 'NSTextAlignmentLeft' undeclared (first use in this function)
+o/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/PrintSync.m: In function '-[PrintSync drawProt]':
+o/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/PrintSync.m:312: error: 'NSLineBreakByClipping' undeclared (first use in this function)
+o/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/PrintSync.m:313: error: 'NSTextAlignmentLeft' undeclared (first use in this function)
+o/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/PrintSync.m: In function '-[PrintSync drawPR]':
+o/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/PrintSync.m:414: error: 'NSLineBreakByWordWrapping' undeclared (first use in this function)
+o/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/PrintSync.m:415: error: 'NSTextAlignmentLeft' undeclared (first use in this function)
+o/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/PrintSync.m: In function '-[PrintSync drawHD]':
+o/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/PrintSync.m:452: error: 'NSLineBreakByClipping' undeclared (first use in this function)
+o/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/PrintSync.m:453: error: 'NSTextAlignmentLeft' undeclared (first use in this function)
+o/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/PrintSync.m: In function '-[PrintSync drawBS]':
+o/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/PrintSync.m:539: error: 'NSLineBreakByClipping' undeclared (first use in this function)
+o/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/PrintSync.m:540: error: 'NSTextAlignmentLeft' undeclared (first use in this function)
+o/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/PrintSync.m: In function '-[PrintSync drawSA]':
+o/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/PrintSync.m:579: error: 'NSLineBreakByWordWrapping' undeclared (first use in this function)
+o/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/PrintSync.m:580: error: 'NSTextAlignmentLeft' undeclared (first use in this function)
+o/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/PrintSync.m: In function '-[PrintSync drawBU]':
+o/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/PrintSync.m:617: error: 'NSLineBreakByClipping' undeclared (first use in this function)
+o/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/PrintSync.m:618: error: 'NSTextAlignmentLeft' undeclared (first use in this function)
+o/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/PrintSync.m: In function '-[PrintSync drawRI]':
+o/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/PrintSync.m:697: error: 'NSLineBreakByClipping' undeclared (first use in this function)
+o/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/PrintSync.m:698: error: 'NSTextAlignmentLeft' undeclared (first use in this function)
+o/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/PrintSync.m: In function '-[PrintSync drawWB]':
+o/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/PrintSync.m:965: error: 'NSLineBreakByClipping' undeclared (first use in this function)
+o/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/PrintSync.m:966: error: 'NSTextAlignmentLeft' undeclared (first use in this function)
+o/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/PrintSync.m: In function '-[PrintSync drawHG]':
+o/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/PrintSync.m:1051: error: 'NSLineBreakByClipping' undeclared (first use in this function)
+o/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/PrintSync.m:1052: error: 'NSTextAlignmentLeft' undeclared (first use in this function)
+o/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/PrintSync.m: In function '-[PrintSync drawOR]':
+o/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/PrintSync.m:1196: error: 'NSLineBreakByClipping' undeclared (first use in this function)
+o/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/PrintSync.m:1197: error: 'NSTextAlignmentLeft' undeclared (first use in this function)
+o/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/PrintSync.m: In function '-[PrintSync drawOO]':
+o/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/PrintSync.m:1278: error: 'NSLineBreakByWordWrapping' undeclared (first use in this function)
+o/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/PrintSync.m:1279: error: 'NSTextAlignmentLeft' undeclared (first use in this function)
+o/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/PrintSync.m: In function '-[PrintSync drawSR]':
+o/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/PrintSync.m:1322: error: 'NSLineBreakByClipping' undeclared (first use in this function)
+o/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/PrintSync.m:1323: error: 'NSTextAlignmentLeft' undeclared (first use in this function)
+o/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/PrintSync.m:1329: error: 'NSLineBreakByTruncatingTail' undeclared (first use in this function)
+o/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/PrintSync.m:1330: error: 'NSTextAlignmentRight' undeclared (first use in this function)
+o{standard input}:837:non-relocatable subtraction expression, "LC23" minus "L00000000004$pb"
+o{standard input}:837:symbol: "LC23" can't be undefined in a subtraction expression
+o{standard input}:827:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_33" minus "L00000000004$pb"
+o{standard input}:827:symbol: "L_OBJC_SELECTOR_REFERENCES_33" can't be undefined in a subtraction expression
+o{standard input}:819:non-relocatable subtraction expression, "LC22" minus "L00000000004$pb"
+o{standard input}:819:symbol: "LC22" can't be undefined in a subtraction expression
+o{standard input}:816:non-relocatable subtraction expression, "LC22" minus "L00000000004$pb"
+o{standard input}:816:symbol: "LC22" can't be undefined in a subtraction expression
+o{standard input}:808:non-relocatable subtraction expression, "LC21" minus "L00000000004$pb"
+o{standard input}:808:symbol: "LC21" can't be undefined in a subtraction expression
+o{standard input}:803:non-relocatable subtraction expression, "L_OBJC_IVAR_$_PrintSync.pageSize$non_lazy_ptr" minus "L00000000004$pb"
+o{standard input}:803:symbol: "L_OBJC_IVAR_$_PrintSync.pageSize$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:798:non-relocatable subtraction expression, "LC21" minus "L00000000004$pb"
+o{standard input}:798:symbol: "LC21" can't be undefined in a subtraction expression
+o{standard input}:793:non-relocatable subtraction expression, "L_OBJC_IVAR_$_PrintSync.pageSize$non_lazy_ptr" minus "L00000000004$pb"
+o{standard input}:793:symbol: "L_OBJC_IVAR_$_PrintSync.pageSize$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:785:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_32" minus "L00000000004$pb"
+o{standard input}:785:symbol: "L_OBJC_SELECTOR_REFERENCES_32" can't be undefined in a subtraction expression
+o{standard input}:782:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_3" minus "L00000000004$pb"
+o{standard input}:782:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_3" can't be undefined in a subtraction expression
+o{standard input}:718:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_30" minus "L00000000003$pb"
+o{standard input}:718:symbol: "L_OBJC_SELECTOR_REFERENCES_30" can't be undefined in a subtraction expression
+o{standard input}:712:non-relocatable subtraction expression, "L_OBJC_IVAR_$_PrintSync.Docs$non_lazy_ptr" minus "L00000000003$pb"
+o{standard input}:712:symbol: "L_OBJC_IVAR_$_PrintSync.Docs$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:705:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_31" minus "L00000000003$pb"
+o{standard input}:705:symbol: "L_OBJC_SELECTOR_REFERENCES_31" can't be undefined in a subtraction expression
+o{standard input}:699:non-relocatable subtraction expression, "L_OBJC_IVAR_$_PrintSync.SampPDF$non_lazy_ptr" minus "L00000000003$pb"
+o{standard input}:699:symbol: "L_OBJC_IVAR_$_PrintSync.SampPDF$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:691:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_30" minus "L00000000003$pb"
+o{standard input}:691:symbol: "L_OBJC_SELECTOR_REFERENCES_30" can't be undefined in a subtraction expression
+o{standard input}:685:non-relocatable subtraction expression, "L_OBJC_IVAR_$_PrintSync.SampPDF$non_lazy_ptr" minus "L00000000003$pb"
+o{standard input}:685:symbol: "L_OBJC_IVAR_$_PrintSync.SampPDF$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:676:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_29" minus "L00000000003$pb"
+o{standard input}:676:symbol: "L_OBJC_SELECTOR_REFERENCES_29" can't be undefined in a subtraction expression
+o{standard input}:670:non-relocatable subtraction expression, "L_OBJC_IVAR_$_PrintSync.sample$non_lazy_ptr" minus "L00000000003$pb"
+o{standard input}:670:symbol: "L_OBJC_IVAR_$_PrintSync.sample$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:662:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_28" minus "L00000000003$pb"
+o{standard input}:662:symbol: "L_OBJC_SELECTOR_REFERENCES_28" can't be undefined in a subtraction expression
+o{standard input}:656:non-relocatable subtraction expression, "L_OBJC_IVAR_$_PrintSync.SampPDF$non_lazy_ptr" minus "L00000000003$pb"
+o{standard input}:656:symbol: "L_OBJC_IVAR_$_PrintSync.SampPDF$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:648:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_27" minus "L00000000003$pb"
+o{standard input}:648:symbol: "L_OBJC_SELECTOR_REFERENCES_27" can't be undefined in a subtraction expression
+o{standard input}:642:non-relocatable subtraction expression, "L_OBJC_IVAR_$_PrintSync.SampPDF$non_lazy_ptr" minus "L00000000003$pb"
+o{standard input}:642:symbol: "L_OBJC_IVAR_$_PrintSync.SampPDF$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:634:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_28" minus "L00000000003$pb"
+o{standard input}:634:symbol: "L_OBJC_SELECTOR_REFERENCES_28" can't be undefined in a subtraction expression
+o{standard input}:628:non-relocatable subtraction expression, "L_OBJC_IVAR_$_PrintSync.sample$non_lazy_ptr" minus "L00000000003$pb"
+o{standard input}:628:symbol: "L_OBJC_IVAR_$_PrintSync.sample$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:620:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_27" minus "L00000000003$pb"
+o{standard input}:620:symbol: "L_OBJC_SELECTOR_REFERENCES_27" can't be undefined in a subtraction expression
+o{standard input}:614:non-relocatable subtraction expression, "L_OBJC_IVAR_$_PrintSync.sample$non_lazy_ptr" minus "L00000000003$pb"
+o{standard input}:614:symbol: "L_OBJC_IVAR_$_PrintSync.sample$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:604:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_26" minus "L00000000003$pb"
+o{standard input}:604:symbol: "L_OBJC_SELECTOR_REFERENCES_26" can't be undefined in a subtraction expression
+o{standard input}:601:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_2" minus "L00000000003$pb"
+o{standard input}:601:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_2" can't be undefined in a subtraction expression
+o{standard input}:592:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_25" minus "L00000000003$pb"
+o{standard input}:592:symbol: "L_OBJC_SELECTOR_REFERENCES_25" can't be undefined in a subtraction expression
+o{standard input}:589:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_1" minus "L00000000003$pb"
+o{standard input}:589:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_1" can't be undefined in a subtraction expression
+o{standard input}:576:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_24" minus "L00000000003$pb"
+o{standard input}:576:symbol: "L_OBJC_SELECTOR_REFERENCES_24" can't be undefined in a subtraction expression
+o{standard input}:569:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_23" minus "L00000000003$pb"
+o{standard input}:569:symbol: "L_OBJC_SELECTOR_REFERENCES_23" can't be undefined in a subtraction expression
+o{standard input}:562:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_22" minus "L00000000003$pb"
+o{standard input}:562:symbol: "L_OBJC_SELECTOR_REFERENCES_22" can't be undefined in a subtraction expression
+o{standard input}:555:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_21" minus "L00000000003$pb"
+o{standard input}:555:symbol: "L_OBJC_SELECTOR_REFERENCES_21" can't be undefined in a subtraction expression
+o{standard input}:548:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_20" minus "L00000000003$pb"
+o{standard input}:548:symbol: "L_OBJC_SELECTOR_REFERENCES_20" can't be undefined in a subtraction expression
+o{standard input}:541:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_19" minus "L00000000003$pb"
+o{standard input}:541:symbol: "L_OBJC_SELECTOR_REFERENCES_19" can't be undefined in a subtraction expression
+o{standard input}:534:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_18" minus "L00000000003$pb"
+o{standard input}:534:symbol: "L_OBJC_SELECTOR_REFERENCES_18" can't be undefined in a subtraction expression
+o{standard input}:527:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_17" minus "L00000000003$pb"
+o{standard input}:527:symbol: "L_OBJC_SELECTOR_REFERENCES_17" can't be undefined in a subtraction expression
+o{standard input}:520:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_16" minus "L00000000003$pb"
+o{standard input}:520:symbol: "L_OBJC_SELECTOR_REFERENCES_16" can't be undefined in a subtraction expression
+o{standard input}:513:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_15" minus "L00000000003$pb"
+o{standard input}:513:symbol: "L_OBJC_SELECTOR_REFERENCES_15" can't be undefined in a subtraction expression
+o{standard input}:506:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_14" minus "L00000000003$pb"
+o{standard input}:506:symbol: "L_OBJC_SELECTOR_REFERENCES_14" can't be undefined in a subtraction expression
+o{standard input}:499:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_13" minus "L00000000003$pb"
+o{standard input}:499:symbol: "L_OBJC_SELECTOR_REFERENCES_13" can't be undefined in a subtraction expression
+o{standard input}:492:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_12" minus "L00000000003$pb"
+o{standard input}:492:symbol: "L_OBJC_SELECTOR_REFERENCES_12" can't be undefined in a subtraction expression
+o{standard input}:485:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_11" minus "L00000000003$pb"
+o{standard input}:485:symbol: "L_OBJC_SELECTOR_REFERENCES_11" can't be undefined in a subtraction expression
+o{standard input}:478:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_10" minus "L00000000003$pb"
+o{standard input}:478:symbol: "L_OBJC_SELECTOR_REFERENCES_10" can't be undefined in a subtraction expression
+o{standard input}:471:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_9" minus "L00000000003$pb"
+o{standard input}:471:symbol: "L_OBJC_SELECTOR_REFERENCES_9" can't be undefined in a subtraction expression
+o{standard input}:453:non-relocatable subtraction expression, "LC20" minus "L00000000003$pb"
+o{standard input}:453:symbol: "LC20" can't be undefined in a subtraction expression
+o{standard input}:450:non-relocatable subtraction expression, "LC20" minus "L00000000003$pb"
+o{standard input}:450:symbol: "LC20" can't be undefined in a subtraction expression
+o{standard input}:442:non-relocatable subtraction expression, "L_OBJC_IVAR_$_PrintSync.pageSize$non_lazy_ptr" minus "L00000000003$pb"
+o{standard input}:442:symbol: "L_OBJC_IVAR_$_PrintSync.pageSize$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:436:non-relocatable subtraction expression, "L_OBJC_IVAR_$_PrintSync.pageSize$non_lazy_ptr" minus "L00000000003$pb"
+o{standard input}:436:symbol: "L_OBJC_IVAR_$_PrintSync.pageSize$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:418:non-relocatable subtraction expression, "L_CGRectZero$non_lazy_ptr" minus "L00000000003$pb"
+o{standard input}:418:symbol: "L_CGRectZero$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:365:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_8" minus "L00000000002$pb"
+o{standard input}:365:symbol: "L_OBJC_SELECTOR_REFERENCES_8" can't be undefined in a subtraction expression
+o{standard input}:355:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_7" minus "L00000000002$pb"
+o{standard input}:355:symbol: "L_OBJC_SELECTOR_REFERENCES_7" can't be undefined in a subtraction expression
+o{standard input}:352:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_1" minus "L00000000002$pb"
+o{standard input}:352:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_1" can't be undefined in a subtraction expression
+o{standard input}:347:non-relocatable subtraction expression, "L_OBJC_IVAR_$_PrintSync.repURLPath$non_lazy_ptr" minus "L00000000002$pb"
+o{standard input}:347:symbol: "L_OBJC_IVAR_$_PrintSync.repURLPath$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:338:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_6" minus "L00000000002$pb"
+o{standard input}:338:symbol: "L_OBJC_SELECTOR_REFERENCES_6" can't be undefined in a subtraction expression
+o{standard input}:333:non-relocatable subtraction expression, "L_OBJC_IVAR_$_PrintSync.fileName$non_lazy_ptr" minus "L00000000002$pb"
+o{standard input}:333:symbol: "L_OBJC_IVAR_$_PrintSync.fileName$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:319:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_5" minus "L00000000002$pb"
+o{standard input}:319:symbol: "L_OBJC_SELECTOR_REFERENCES_5" can't be undefined in a subtraction expression
+o{standard input}:303:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_4" minus "L00000000002$pb"
+o{standard input}:303:symbol: "L_OBJC_SELECTOR_REFERENCES_4" can't be undefined in a subtraction expression
+o{standard input}:295:non-relocatable subtraction expression, "L_OBJC_IVAR_$_PrintSync.fileName$non_lazy_ptr" minus "L00000000002$pb"
+o{standard input}:295:symbol: "L_OBJC_IVAR_$_PrintSync.fileName$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:289:non-relocatable subtraction expression, "L_OBJC_IVAR_$_PrintSync.fileName$non_lazy_ptr" minus "L00000000002$pb"
+o{standard input}:289:symbol: "L_OBJC_IVAR_$_PrintSync.fileName$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:279:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_4" minus "L00000000002$pb"
+o{standard input}:279:symbol: "L_OBJC_SELECTOR_REFERENCES_4" can't be undefined in a subtraction expression
+o{standard input}:271:non-relocatable subtraction expression, "L_OBJC_IVAR_$_PrintSync.fileName$non_lazy_ptr" minus "L00000000002$pb"
+o{standard input}:271:symbol: "L_OBJC_IVAR_$_PrintSync.fileName$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:265:non-relocatable subtraction expression, "L_OBJC_IVAR_$_PrintSync.fileName$non_lazy_ptr" minus "L00000000002$pb"
+o{standard input}:265:symbol: "L_OBJC_IVAR_$_PrintSync.fileName$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:256:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_2" minus "L00000000002$pb"
+o{standard input}:256:symbol: "L_OBJC_SELECTOR_REFERENCES_2" can't be undefined in a subtraction expression
+o{standard input}:248:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_2" minus "L00000000002$pb"
+o{standard input}:248:symbol: "L_OBJC_SELECTOR_REFERENCES_2" can't be undefined in a subtraction expression
+o{standard input}:242:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_3" minus "L00000000002$pb"
+o{standard input}:242:symbol: "L_OBJC_SELECTOR_REFERENCES_3" can't be undefined in a subtraction expression
+o{standard input}:236:non-relocatable subtraction expression, "L_OBJC_IVAR_$_PrintSync.tvStat$non_lazy_ptr" minus "L00000000002$pb"
+o{standard input}:236:symbol: "L_OBJC_IVAR_$_PrintSync.tvStat$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:227:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_2" minus "L00000000002$pb"
+o{standard input}:227:symbol: "L_OBJC_SELECTOR_REFERENCES_2" can't be undefined in a subtraction expression
+o{standard input}:221:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_1" minus "L00000000002$pb"
+o{standard input}:221:symbol: "L_OBJC_SELECTOR_REFERENCES_1" can't be undefined in a subtraction expression
+o{standard input}:215:non-relocatable subtraction expression, "L_OBJC_IVAR_$_PrintSync.tvStat$non_lazy_ptr" minus "L00000000002$pb"
+o{standard input}:215:symbol: "L_OBJC_IVAR_$_PrintSync.tvStat$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:209:non-relocatable subtraction expression, "L_OBJC_IVAR_$_PrintSync.fileName$non_lazy_ptr" minus "L00000000002$pb"
+o{standard input}:209:symbol: "L_OBJC_IVAR_$_PrintSync.fileName$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:201:non-relocatable subtraction expression, "LC7" minus "L00000000002$pb"
+o{standard input}:201:symbol: "LC7" can't be undefined in a subtraction expression
+o{standard input}:198:non-relocatable subtraction expression, "LC6" minus "L00000000002$pb"
+o{standard input}:198:symbol: "LC6" can't be undefined in a subtraction expression
+o{standard input}:193:non-relocatable subtraction expression, "L_OBJC_IVAR_$_PrintSync.pageSize$non_lazy_ptr" minus "L00000000002$pb"
+o{standard input}:193:symbol: "L_OBJC_IVAR_$_PrintSync.pageSize$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:100:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_0" minus "L00000000001$pb"
+o{standard input}:100:symbol: "L_OBJC_SELECTOR_REFERENCES_0" can't be undefined in a subtraction expression
+o{standard input}:96:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_SUP_REFS_$_0" minus "L00000000001$pb"
+o{standard input}:96:symbol: "L_OBJC_CLASSLIST_SUP_REFS_$_0" can't be undefined in a subtraction expression
+o{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_SUP_REFS_$_0
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_0
+o{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_PrintSync.pageSize$non_lazy_ptr
+o{standard input}:unknown:Undefined local symbol LC6
+o{standard input}:unknown:Undefined local symbol LC7
+o{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_PrintSync.fileName$non_lazy_ptr
+o{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_PrintSync.tvStat$non_lazy_ptr
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_1
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_2
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_3
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_4
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_5
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_6
+o{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_PrintSync.repURLPath$non_lazy_ptr
+o{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_1
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_7
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_8
+o{standard input}:unknown:Undefined local symbol L_CGRectZero$non_lazy_ptr
+o{standard input}:unknown:Undefined local symbol LC20
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_9
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_10
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_11
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_12
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_13
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_14
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_15
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_16
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_17
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_18
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_19
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_20
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_21
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_22
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_23
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_24
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_25
+o{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_2
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_26
+o{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_PrintSync.sample$non_lazy_ptr
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_27
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_28
+o{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_PrintSync.SampPDF$non_lazy_ptr
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_29
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_30
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_31
+o{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_PrintSync.Docs$non_lazy_ptr
+o{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_3
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_32
+o{standard input}:unknown:Undefined local symbol LC21
+o{standard input}:unknown:Undefined local symbol LC22
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_33
+o{standard input}:unknown:Undefined local symbol LC23
+lSLF07#2@120"Compile /Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/PrintSync.m390684581#390684582#0(29680"cc1obj: warning: -Wuninitialized is not supported without -O/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/PrintSync.m: In function '-[PrintSync drawMP]':/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/PrintSync.m:160: error: 'NSLineBreakByWordWrapping' undeclared (first use in this function)/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/PrintSync.m:160: error: (Each undeclared identifier is reported only once/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/PrintSync.m:160: error: for each function it appears in.)/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/PrintSync.m:161: error: 'NSTextAlignmentLeft' undeclared (first use in this function)/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/PrintSync.m: In function '-[PrintSync drawBI]':/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/PrintSync.m:198: error: 'NSLineBreakByClipping' undeclared (first use in this function)/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/PrintSync.m:199: error: 'NSTextAlignmentLeft' undeclared (first use in this function)/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/PrintSync.m: In function '-[PrintSync drawProt]':/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/PrintSync.m:312: error: 'NSLineBreakByClipping' undeclared (first use in this function)/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/PrintSync.m:313: error: 'NSTextAlignmentLeft' undeclared (first use in this function)/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/PrintSync.m: In function '-[PrintSync drawPR]':/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/PrintSync.m:414: error: 'NSLineBreakByWordWrapping' undeclared (first use in this function)/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/PrintSync.m:415: error: 'NSTextAlignmentLeft' undeclared (first use in this function)/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/PrintSync.m: In function '-[PrintSync drawHD]':/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/PrintSync.m:452: error: 'NSLineBreakByClipping' undeclared (first use in this function)/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/PrintSync.m:453: error: 'NSTextAlignmentLeft' undeclared (first use in this function)/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/PrintSync.m: In function '-[PrintSync drawBS]':/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/PrintSync.m:539: error: 'NSLineBreakByClipping' undeclared (first use in this function)/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/PrintSync.m:540: error: 'NSTextAlignmentLeft' undeclared (first use in this function)/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/PrintSync.m: In function '-[PrintSync drawSA]':/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/PrintSync.m:579: error: 'NSLineBreakByWordWrapping' undeclared (first use in this function)/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/PrintSync.m:580: error: 'NSTextAlignmentLeft' undeclared (first use in this function)/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/PrintSync.m: In function '-[PrintSync drawBU]':/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/PrintSync.m:617: error: 'NSLineBreakByClipping' undeclared (first use in this function)/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/PrintSync.m:618: error: 'NSTextAlignmentLeft' undeclared (first use in this function)/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/PrintSync.m: In function '-[PrintSync drawRI]':/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/PrintSync.m:697: error: 'NSLineBreakByClipping' undeclared (first use in this function)/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/PrintSync.m:698: error: 'NSTextAlignmentLeft' undeclared (first use in this function)/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/PrintSync.m: In function '-[PrintSync drawWB]':/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/PrintSync.m:965: error: 'NSLineBreakByClipping' undeclared (first use in this function)/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/PrintSync.m:966: error: 'NSTextAlignmentLeft' undeclared (first use in this function)/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/PrintSync.m: In function '-[PrintSync drawHG]':/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/PrintSync.m:1051: error: 'NSLineBreakByClipping' undeclared (first use in this function)/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/PrintSync.m:1052: error: 'NSTextAlignmentLeft' undeclared (first use in this function)/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/PrintSync.m: In function '-[PrintSync drawOR]':/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/PrintSync.m:1196: error: 'NSLineBreakByClipping' undeclared (first use in this function)/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/PrintSync.m:1197: error: 'NSTextAlignmentLeft' undeclared (first use in this function)/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/PrintSync.m: In function '-[PrintSync drawOO]':/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/PrintSync.m:1278: error: 'NSLineBreakByWordWrapping' undeclared (first use in this function)/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/PrintSync.m:1279: error: 'NSTextAlignmentLeft' undeclared (first use in this function)/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/PrintSync.m: In function '-[PrintSync drawSR]':/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/PrintSync.m:1322: error: 'NSLineBreakByClipping' undeclared (first use in this function)/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/PrintSync.m:1323: error: 'NSTextAlignmentLeft' undeclared (first use in this function)/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/PrintSync.m:1329: error: 'NSLineBreakByTruncatingTail' undeclared (first use in this function)/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/PrintSync.m:1330: error: 'NSTextAlignmentRight' undeclared (first use in this function){standard input}:837:non-relocatable subtraction expression, "LC23" minus "L00000000004$pb"{standard input}:837:symbol: "LC23" can't be undefined in a subtraction expression{standard input}:827:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_33" minus "L00000000004$pb"{standard input}:827:symbol: "L_OBJC_SELECTOR_REFERENCES_33" can't be undefined in a subtraction expression{standard input}:819:non-relocatable subtraction expression, "LC22" minus "L00000000004$pb"{standard input}:819:symbol: "LC22" can't be undefined in a subtraction expression{standard input}:816:non-relocatable subtraction expression, "LC22" minus "L00000000004$pb"{standard input}:816:symbol: "LC22" can't be undefined in a subtraction expression{standard input}:808:non-relocatable subtraction expression, "LC21" minus "L00000000004$pb"{standard input}:808:symbol: "LC21" can't be undefined in a subtraction expression{standard input}:803:non-relocatable subtraction expression, "L_OBJC_IVAR_$_PrintSync.pageSize$non_lazy_ptr" minus "L00000000004$pb"{standard input}:803:symbol: "L_OBJC_IVAR_$_PrintSync.pageSize$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:798:non-relocatable subtraction expression, "LC21" minus "L00000000004$pb"{standard input}:798:symbol: "LC21" can't be undefined in a subtraction expression{standard input}:793:non-relocatable subtraction expression, "L_OBJC_IVAR_$_PrintSync.pageSize$non_lazy_ptr" minus "L00000000004$pb"{standard input}:793:symbol: "L_OBJC_IVAR_$_PrintSync.pageSize$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:785:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_32" minus "L00000000004$pb"{standard input}:785:symbol: "L_OBJC_SELECTOR_REFERENCES_32" can't be undefined in a subtraction expression{standard input}:782:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_3" minus "L00000000004$pb"{standard input}:782:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_3" can't be undefined in a subtraction expression{standard input}:718:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_30" minus "L00000000003$pb"{standard input}:718:symbol: "L_OBJC_SELECTOR_REFERENCES_30" can't be undefined in a subtraction expression{standard input}:712:non-relocatable subtraction expression, "L_OBJC_IVAR_$_PrintSync.Docs$non_lazy_ptr" minus "L00000000003$pb"{standard input}:712:symbol: "L_OBJC_IVAR_$_PrintSync.Docs$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:705:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_31" minus "L00000000003$pb"{standard input}:705:symbol: "L_OBJC_SELECTOR_REFERENCES_31" can't be undefined in a subtraction expression{standard input}:699:non-relocatable subtraction expression, "L_OBJC_IVAR_$_PrintSync.SampPDF$non_lazy_ptr" minus "L00000000003$pb"{standard input}:699:symbol: "L_OBJC_IVAR_$_PrintSync.SampPDF$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:691:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_30" minus "L00000000003$pb"{standard input}:691:symbol: "L_OBJC_SELECTOR_REFERENCES_30" can't be undefined in a subtraction expression{standard input}:685:non-relocatable subtraction expression, "L_OBJC_IVAR_$_PrintSync.SampPDF$non_lazy_ptr" minus "L00000000003$pb"{standard input}:685:symbol: "L_OBJC_IVAR_$_PrintSync.SampPDF$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:676:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_29" minus "L00000000003$pb"{standard input}:676:symbol: "L_OBJC_SELECTOR_REFERENCES_29" can't be undefined in a subtraction expression{standard input}:670:non-relocatable subtraction expression, "L_OBJC_IVAR_$_PrintSync.sample$non_lazy_ptr" minus "L00000000003$pb"{standard input}:670:symbol: "L_OBJC_IVAR_$_PrintSync.sample$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:662:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_28" minus "L00000000003$pb"{standard input}:662:symbol: "L_OBJC_SELECTOR_REFERENCES_28" can't be undefined in a subtraction expression{standard input}:656:non-relocatable subtraction expression, "L_OBJC_IVAR_$_PrintSync.SampPDF$non_lazy_ptr" minus "L00000000003$pb"{standard input}:656:symbol: "L_OBJC_IVAR_$_PrintSync.SampPDF$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:648:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_27" minus "L00000000003$pb"{standard input}:648:symbol: "L_OBJC_SELECTOR_REFERENCES_27" can't be undefined in a subtraction expression{standard input}:642:non-relocatable subtraction expression, "L_OBJC_IVAR_$_PrintSync.SampPDF$non_lazy_ptr" minus "L00000000003$pb"{standard input}:642:symbol: "L_OBJC_IVAR_$_PrintSync.SampPDF$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:634:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_28" minus "L00000000003$pb"{standard input}:634:symbol: "L_OBJC_SELECTOR_REFERENCES_28" can't be undefined in a subtraction expression{standard input}:628:non-relocatable subtraction expression, "L_OBJC_IVAR_$_PrintSync.sample$non_lazy_ptr" minus "L00000000003$pb"{standard input}:628:symbol: "L_OBJC_IVAR_$_PrintSync.sample$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:620:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_27" minus "L00000000003$pb"{standard input}:620:symbol: "L_OBJC_SELECTOR_REFERENCES_27" can't be undefined in a subtraction expression{standard input}:614:non-relocatable subtraction expression, "L_OBJC_IVAR_$_PrintSync.sample$non_lazy_ptr" minus "L00000000003$pb"{standard input}:614:symbol: "L_OBJC_IVAR_$_PrintSync.sample$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:604:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_26" minus "L00000000003$pb"{standard input}:604:symbol: "L_OBJC_SELECTOR_REFERENCES_26" can't be undefined in a subtraction expression{standard input}:601:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_2" minus "L00000000003$pb"{standard input}:601:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_2" can't be undefined in a subtraction expression{standard input}:592:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_25" minus "L00000000003$pb"{standard input}:592:symbol: "L_OBJC_SELECTOR_REFERENCES_25" can't be undefined in a subtraction expression{standard input}:589:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_1" minus "L00000000003$pb"{standard input}:589:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_1" can't be undefined in a subtraction expression{standard input}:576:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_24" minus "L00000000003$pb"{standard input}:576:symbol: "L_OBJC_SELECTOR_REFERENCES_24" can't be undefined in a subtraction expression{standard input}:569:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_23" minus "L00000000003$pb"{standard input}:569:symbol: "L_OBJC_SELECTOR_REFERENCES_23" can't be undefined in a subtraction expression{standard input}:562:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_22" minus "L00000000003$pb"{standard input}:562:symbol: "L_OBJC_SELECTOR_REFERENCES_22" can't be undefined in a subtraction expression{standard input}:555:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_21" minus "L00000000003$pb"{standard input}:555:symbol: "L_OBJC_SELECTOR_REFERENCES_21" can't be undefined in a subtraction expression{standard input}:548:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_20" minus "L00000000003$pb"{standard input}:548:symbol: "L_OBJC_SELECTOR_REFERENCES_20" can't be undefined in a subtraction expression{standard input}:541:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_19" minus "L00000000003$pb"{standard input}:541:symbol: "L_OBJC_SELECTOR_REFERENCES_19" can't be undefined in a subtraction expression{standard input}:534:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_18" minus "L00000000003$pb"{standard input}:534:symbol: "L_OBJC_SELECTOR_REFERENCES_18" can't be undefined in a subtraction expression{standard input}:527:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_17" minus "L00000000003$pb"{standard input}:527:symbol: "L_OBJC_SELECTOR_REFERENCES_17" can't be undefined in a subtraction expression{standard input}:520:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_16" minus "L00000000003$pb"{standard input}:520:symbol: "L_OBJC_SELECTOR_REFERENCES_16" can't be undefined in a subtraction expression{standard input}:513:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_15" minus "L00000000003$pb"{standard input}:513:symbol: "L_OBJC_SELECTOR_REFERENCES_15" can't be undefined in a subtraction expression{standard input}:506:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_14" minus "L00000000003$pb"{standard input}:506:symbol: "L_OBJC_SELECTOR_REFERENCES_14" can't be undefined in a subtraction expression{standard input}:499:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_13" minus "L00000000003$pb"{standard input}:499:symbol: "L_OBJC_SELECTOR_REFERENCES_13" can't be undefined in a subtraction expression{standard input}:492:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_12" minus "L00000000003$pb"{standard input}:492:symbol: "L_OBJC_SELECTOR_REFERENCES_12" can't be undefined in a subtraction expression{standard input}:485:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_11" minus "L00000000003$pb"{standard input}:485:symbol: "L_OBJC_SELECTOR_REFERENCES_11" can't be undefined in a subtraction expression{standard input}:478:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_10" minus "L00000000003$pb"{standard input}:478:symbol: "L_OBJC_SELECTOR_REFERENCES_10" can't be undefined in a subtraction expression{standard input}:471:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_9" minus "L00000000003$pb"{standard input}:471:symbol: "L_OBJC_SELECTOR_REFERENCES_9" can't be undefined in a subtraction expression{standard input}:453:non-relocatable subtraction expression, "LC20" minus "L00000000003$pb"{standard input}:453:symbol: "LC20" can't be undefined in a subtraction expression{standard input}:450:non-relocatable subtraction expression, "LC20" minus "L00000000003$pb"{standard input}:450:symbol: "LC20" can't be undefined in a subtraction expression{standard input}:442:non-relocatable subtraction expression, "L_OBJC_IVAR_$_PrintSync.pageSize$non_lazy_ptr" minus "L00000000003$pb"{standard input}:442:symbol: "L_OBJC_IVAR_$_PrintSync.pageSize$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:436:non-relocatable subtraction expression, "L_OBJC_IVAR_$_PrintSync.pageSize$non_lazy_ptr" minus "L00000000003$pb"{standard input}:436:symbol: "L_OBJC_IVAR_$_PrintSync.pageSize$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:418:non-relocatable subtraction expression, "L_CGRectZero$non_lazy_ptr" minus "L00000000003$pb"{standard input}:418:symbol: "L_CGRectZero$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:365:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_8" minus "L00000000002$pb"{standard input}:365:symbol: "L_OBJC_SELECTOR_REFERENCES_8" can't be undefined in a subtraction expression{standard input}:355:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_7" minus "L00000000002$pb"{standard input}:355:symbol: "L_OBJC_SELECTOR_REFERENCES_7" can't be undefined in a subtraction expression{standard input}:352:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_1" minus "L00000000002$pb"{standard input}:352:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_1" can't be undefined in a subtraction expression{standard input}:347:non-relocatable subtraction expression, "L_OBJC_IVAR_$_PrintSync.repURLPath$non_lazy_ptr" minus "L00000000002$pb"{standard input}:347:symbol: "L_OBJC_IVAR_$_PrintSync.repURLPath$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:338:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_6" minus "L00000000002$pb"{standard input}:338:symbol: "L_OBJC_SELECTOR_REFERENCES_6" can't be undefined in a subtraction expression{standard input}:333:non-relocatable subtraction expression, "L_OBJC_IVAR_$_PrintSync.fileName$non_lazy_ptr" minus "L00000000002$pb"{standard input}:333:symbol: "L_OBJC_IVAR_$_PrintSync.fileName$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:319:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_5" minus "L00000000002$pb"{standard input}:319:symbol: "L_OBJC_SELECTOR_REFERENCES_5" can't be undefined in a subtraction expression{standard input}:303:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_4" minus "L00000000002$pb"{standard input}:303:symbol: "L_OBJC_SELECTOR_REFERENCES_4" can't be undefined in a subtraction expression{standard input}:295:non-relocatable subtraction expression, "L_OBJC_IVAR_$_PrintSync.fileName$non_lazy_ptr" minus "L00000000002$pb"{standard input}:295:symbol: "L_OBJC_IVAR_$_PrintSync.fileName$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:289:non-relocatable subtraction expression, "L_OBJC_IVAR_$_PrintSync.fileName$non_lazy_ptr" minus "L00000000002$pb"{standard input}:289:symbol: "L_OBJC_IVAR_$_PrintSync.fileName$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:279:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_4" minus "L00000000002$pb"{standard input}:279:symbol: "L_OBJC_SELECTOR_REFERENCES_4" can't be undefined in a subtraction expression{standard input}:271:non-relocatable subtraction expression, "L_OBJC_IVAR_$_PrintSync.fileName$non_lazy_ptr" minus "L00000000002$pb"{standard input}:271:symbol: "L_OBJC_IVAR_$_PrintSync.fileName$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:265:non-relocatable subtraction expression, "L_OBJC_IVAR_$_PrintSync.fileName$non_lazy_ptr" minus "L00000000002$pb"{standard input}:265:symbol: "L_OBJC_IVAR_$_PrintSync.fileName$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:256:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_2" minus "L00000000002$pb"{standard input}:256:symbol: "L_OBJC_SELECTOR_REFERENCES_2" can't be undefined in a subtraction expression{standard input}:248:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_2" minus "L00000000002$pb"{standard input}:248:symbol: "L_OBJC_SELECTOR_REFERENCES_2" can't be undefined in a subtraction expression{standard input}:242:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_3" minus "L00000000002$pb"{standard input}:242:symbol: "L_OBJC_SELECTOR_REFERENCES_3" can't be undefined in a subtraction expression{standard input}:236:non-relocatable subtraction expression, "L_OBJC_IVAR_$_PrintSync.tvStat$non_lazy_ptr" minus "L00000000002$pb"{standard input}:236:symbol: "L_OBJC_IVAR_$_PrintSync.tvStat$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:227:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_2" minus "L00000000002$pb"{standard input}:227:symbol: "L_OBJC_SELECTOR_REFERENCES_2" can't be undefined in a subtraction expression{standard input}:221:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_1" minus "L00000000002$pb"{standard input}:221:symbol: "L_OBJC_SELECTOR_REFERENCES_1" can't be undefined in a subtraction expression{standard input}:215:non-relocatable subtraction expression, "L_OBJC_IVAR_$_PrintSync.tvStat$non_lazy_ptr" minus "L00000000002$pb"{standard input}:215:symbol: "L_OBJC_IVAR_$_PrintSync.tvStat$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:209:non-relocatable subtraction expression, "L_OBJC_IVAR_$_PrintSync.fileName$non_lazy_ptr" minus "L00000000002$pb"{standard input}:209:symbol: "L_OBJC_IVAR_$_PrintSync.fileName$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:201:non-relocatable subtraction expression, "LC7" minus "L00000000002$pb"{standard input}:201:symbol: "LC7" can't be undefined in a subtraction expression{standard input}:198:non-relocatable subtraction expression, "LC6" minus "L00000000002$pb"{standard input}:198:symbol: "LC6" can't be undefined in a subtraction expression{standard input}:193:non-relocatable subtraction expression, "L_OBJC_IVAR_$_PrintSync.pageSize$non_lazy_ptr" minus "L00000000002$pb"{standard input}:193:symbol: "L_OBJC_IVAR_$_PrintSync.pageSize$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:100:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_0" minus "L00000000001$pb"{standard input}:100:symbol: "L_OBJC_SELECTOR_REFERENCES_0" can't be undefined in a subtraction expression{standard input}:96:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_SUP_REFS_$_0" minus "L00000000001$pb"{standard input}:96:symbol: "L_OBJC_CLASSLIST_SUP_REFS_$_0" can't be undefined in a subtraction expression{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_SUP_REFS_$_0{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_0{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_PrintSync.pageSize$non_lazy_ptr{standard input}:unknown:Undefined local symbol LC6{standard input}:unknown:Undefined local symbol LC7{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_PrintSync.fileName$non_lazy_ptr{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_PrintSync.tvStat$non_lazy_ptr{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_1{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_2{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_3{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_4{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_5{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_6{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_PrintSync.repURLPath$non_lazy_ptr{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_1{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_7{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_8{standard input}:unknown:Undefined local symbol L_CGRectZero$non_lazy_ptr{standard input}:unknown:Undefined local symbol LC20{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_9{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_10{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_11{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_12{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_13{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_14{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_15{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_16{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_17{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_18{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_19{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_20{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_21{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_22{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_23{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_24{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_25{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_2{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_26{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_PrintSync.sample$non_lazy_ptr{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_27{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_28{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_PrintSync.SampPDF$non_lazy_ptr{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_29{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_30{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_31{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_PrintSync.Docs$non_lazy_ptr{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_3{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_32{standard input}:unknown:Undefined local symbol LC21{standard input}:unknown:Undefined local symbol LC22{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_33{standard input}:unknown:Undefined local symbol LC2331(22@43"-Wuninitialized is not supported without -O390684581#0#61#0(6@0"390684581#0#0#0#0#0"0(4@67"'NSLineBreakByWordWrapping' undeclared (first use in this function)390684582#210#193#0(6@112"/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/PrintSync.m390683175#160#0#160#0#43"'*' undeclared (first use in this function)0(4@61"'NSTextAlignmentLeft' undeclared (first use in this function)390684582#737#187#0(6@112"/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/PrintSync.m390683175#161#0#161#0#43"'*' undeclared (first use in this function)0(4@63"'NSLineBreakByClipping' undeclared (first use in this function)390684582#1073#189#0(6@112"/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/PrintSync.m390683175#198#0#198#0#43"'*' undeclared (first use in this function)0(4@61"'NSTextAlignmentLeft' undeclared (first use in this function)390684582#1262#187#0(6@112"/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/PrintSync.m390683175#199#0#199#0#43"'*' undeclared (first use in this function)0(4@63"'NSLineBreakByClipping' undeclared (first use in this function)390684582#1600#189#0(6@112"/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/PrintSync.m390683175#312#0#312#0#43"'*' undeclared (first use in this function)0(4@61"'NSTextAlignmentLeft' undeclared (first use in this function)390684582#1789#187#0(6@112"/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/PrintSync.m390683175#313#0#313#0#43"'*' undeclared (first use in this function)0(4@67"'NSLineBreakByWordWrapping' undeclared (first use in this function)390684582#2125#193#0(6@112"/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/PrintSync.m390683175#414#0#414#0#43"'*' undeclared (first use in this function)0(4@61"'NSTextAlignmentLeft' undeclared (first use in this function)390684582#2318#187#0(6@112"/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/PrintSync.m390683175#415#0#415#0#43"'*' undeclared (first use in this function)0(4@63"'NSLineBreakByClipping' undeclared (first use in this function)390684582#2654#189#0(6@112"/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/PrintSync.m390683175#452#0#452#0#43"'*' undeclared (first use in this function)0(4@61"'NSTextAlignmentLeft' undeclared (first use in this function)390684582#2843#187#0(6@112"/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/PrintSync.m390683175#453#0#453#0#43"'*' undeclared (first use in this function)0(4@63"'NSLineBreakByClipping' undeclared (first use in this function)390684582#3179#189#0(6@112"/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/PrintSync.m390683175#539#0#539#0#43"'*' undeclared (first use in this function)0(4@61"'NSTextAlignmentLeft' undeclared (first use in this function)390684582#3368#187#0(6@112"/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/PrintSync.m390683175#540#0#540#0#43"'*' undeclared (first use in this function)0(4@67"'NSLineBreakByWordWrapping' undeclared (first use in this function)390684582#3704#193#0(6@112"/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/PrintSync.m390683175#579#0#579#0#43"'*' undeclared (first use in this function)0(4@61"'NSTextAlignmentLeft' undeclared (first use in this function)390684582#3897#187#0(6@112"/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/PrintSync.m390683175#580#0#580#0#43"'*' undeclared (first use in this function)0(4@63"'NSLineBreakByClipping' undeclared (first use in this function)390684582#4233#189#0(6@112"/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/PrintSync.m390683175#617#0#617#0#43"'*' undeclared (first use in this function)0(4@61"'NSTextAlignmentLeft' undeclared (first use in this function)390684582#4422#187#0(6@112"/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/PrintSync.m390683175#618#0#618#0#43"'*' undeclared (first use in this function)0(4@63"'NSLineBreakByClipping' undeclared (first use in this function)390684582#4758#189#0(6@112"/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/PrintSync.m390683175#697#0#697#0#43"'*' undeclared (first use in this function)0(4@61"'NSTextAlignmentLeft' undeclared (first use in this function)390684582#4947#187#0(6@112"/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/PrintSync.m390683175#698#0#698#0#43"'*' undeclared (first use in this function)0(4@63"'NSLineBreakByClipping' undeclared (first use in this function)390684582#5283#189#0(6@112"/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/PrintSync.m390683175#965#0#965#0#43"'*' undeclared (first use in this function)0(4@61"'NSTextAlignmentLeft' undeclared (first use in this function)390684582#5472#187#0(6@112"/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/PrintSync.m390683175#966#0#966#0#43"'*' undeclared (first use in this function)0(4@63"'NSLineBreakByClipping' undeclared (first use in this function)390684582#5808#190#0(6@112"/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/PrintSync.m390683175#1051#0#1051#0#43"'*' undeclared (first use in this function)0(4@61"'NSTextAlignmentLeft' undeclared (first use in this function)390684582#5998#188#0(6@112"/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/PrintSync.m390683175#1052#0#1052#0#43"'*' undeclared (first use in this function)0(4@63"'NSLineBreakByClipping' undeclared (first use in this function)390684582#6335#190#0(6@112"/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/PrintSync.m390683175#1196#0#1196#0#43"'*' undeclared (first use in this function)0(4@61"'NSTextAlignmentLeft' undeclared (first use in this function)390684582#6525#188#0(6@112"/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/PrintSync.m390683175#1197#0#1197#0#43"'*' undeclared (first use in this function)0(4@67"'NSLineBreakByWordWrapping' undeclared (first use in this function)390684582#6862#194#0(6@112"/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/PrintSync.m390683175#1278#0#1278#0#43"'*' undeclared (first use in this function)0(4@61"'NSTextAlignmentLeft' undeclared (first use in this function)390684582#7056#188#0(6@112"/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/PrintSync.m390683175#1279#0#1279#0#43"'*' undeclared (first use in this function)0(4@63"'NSLineBreakByClipping' undeclared (first use in this function)390684582#7393#190#0(6@112"/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/PrintSync.m390683175#1322#0#1322#0#43"'*' undeclared (first use in this function)0(4@61"'NSTextAlignmentLeft' undeclared (first use in this function)390684582#7583#188#0(6@112"/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/PrintSync.m390683175#1323#0#1323#0#43"'*' undeclared (first use in this function)0(4@69"'NSLineBreakByTruncatingTail' undeclared (first use in this function)390684582#7771#196#0(6@112"/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/PrintSync.m390683175#1329#0#1329#0#43"'*' undeclared (first use in this function)0(4@62"'NSTextAlignmentRight' undeclared (first use in this function)390684582#7967#189#0(6@112"/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/PrintSync.m390683175#1330#0#1330#0#43"'*' undeclared (first use in this function)0(0#0#112"/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/PrintSync.m17253320704#2411"    cd "/Users/nchindafam/Documents/AppTicks/Service Registry"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -Wuninitialized -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/nchindafam/Documents/AppTicks/Service Registry/build/Service Registry.build/Debug-iphonesimulator/Service Registry.build/Service Registry-generated-files.hmap" "-I/Users/nchindafam/Documents/AppTicks/Service Registry/build/Service Registry.build/Debug-iphonesimulator/Service Registry.build/Service Registry-own-target-headers.hmap" "-I/Users/nchindafam/Documents/AppTicks/Service Registry/build/Service Registry.build/Debug-iphonesimulator/Service Registry.build/Service Registry-all-target-headers.hmap" -iquote "/Users/nchindafam/Documents/AppTicks/Service Registry/build/Service Registry.build/Debug-iphonesimulator/Service Registry.build/Service Registry-project-headers.hmap" "-F/Users/nchindafam/Documents/AppTicks/Service Registry/build/Debug-iphonesimulator" "-I/Users/nchindafam/Documents/AppTicks/Service Registry/build/Debug-iphonesimulator/include" "-I/Users/nchindafam/Documents/AppTicks/Service Registry/build/Service Registry.build/Debug-iphonesimulator/Service Registry.build/DerivedSources/i386" "-I/Users/nchindafam/Documents/AppTicks/Service Registry/build/Service Registry.build/Debug-iphonesimulator/Service Registry.build/DerivedSources" -DGDATA_REQUIRE_SERVICE_INCLUDES=1 -DGDATA_INCLUDE_DRIVE_SERVICE=1 -include "/var/folders/hf/dwbsg6_517q86ytfk22zbwg80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Service Registry-Prefix-bpyuklknqcvuacfwgyyhwmeglhcx/Service Registry-Prefix.pch" -c "/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/PrintSync.m" -o "/Users/nchindafam/Documents/AppTicks/Service Registry/build/Service Registry.build/Debug-iphonesimulator/Service Registry.build/Objects-normal/i386/PrintSync.o"1#
+
+CCompileC "build/Service Registry.build/Debug-iphonesimulator/Service Registry.build/Objects-normal/i386/PrintTable.o" "/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/PrintTable.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s390684581.564510
+e390684581.988420
+r1
+xCompileC
+xbuild/Service Registry.build/Debug-iphonesimulator/Service Registry.build/Objects-normal/i386/PrintTable.o
+x/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/PrintTable.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+occ1obj: warning: -Wuninitialized is not supported without -O
+o/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/PrintTable.m:456: warning: method possibly missing a [super dealloc] call
+lSLF07#2@121"Compile /Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/PrintTable.m390684581#390684581#0(236"cc1obj: warning: -Wuninitialized is not supported without -O/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/PrintTable.m:456: warning: method possibly missing a [super dealloc] call2(22@43"-Wuninitialized is not supported without -O390684581#0#61#0(6@0"390684581#0#0#0#0#0"0(22@46"Method possibly missing a [super dealloc] call390684581#61#175#0(6@113"/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/PrintTable.m390683084#456#0#456#0#46"method possibly missing a [super dealloc] call0(0#0#113"/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/PrintTable.m4317974528#2413"    cd "/Users/nchindafam/Documents/AppTicks/Service Registry"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -Wuninitialized -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/nchindafam/Documents/AppTicks/Service Registry/build/Service Registry.build/Debug-iphonesimulator/Service Registry.build/Service Registry-generated-files.hmap" "-I/Users/nchindafam/Documents/AppTicks/Service Registry/build/Service Registry.build/Debug-iphonesimulator/Service Registry.build/Service Registry-own-target-headers.hmap" "-I/Users/nchindafam/Documents/AppTicks/Service Registry/build/Service Registry.build/Debug-iphonesimulator/Service Registry.build/Service Registry-all-target-headers.hmap" -iquote "/Users/nchindafam/Documents/AppTicks/Service Registry/build/Service Registry.build/Debug-iphonesimulator/Service Registry.build/Service Registry-project-headers.hmap" "-F/Users/nchindafam/Documents/AppTicks/Service Registry/build/Debug-iphonesimulator" "-I/Users/nchindafam/Documents/AppTicks/Service Registry/build/Debug-iphonesimulator/include" "-I/Users/nchindafam/Documents/AppTicks/Service Registry/build/Service Registry.build/Debug-iphonesimulator/Service Registry.build/DerivedSources/i386" "-I/Users/nchindafam/Documents/AppTicks/Service Registry/build/Service Registry.build/Debug-iphonesimulator/Service Registry.build/DerivedSources" -DGDATA_REQUIRE_SERVICE_INCLUDES=1 -DGDATA_INCLUDE_DRIVE_SERVICE=1 -include "/var/folders/hf/dwbsg6_517q86ytfk22zbwg80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Service Registry-Prefix-bpyuklknqcvuacfwgyyhwmeglhcx/Service Registry-Prefix.pch" -c "/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/PrintTable.m" -o "/Users/nchindafam/Documents/AppTicks/Service Registry/build/Service Registry.build/Debug-iphonesimulator/Service Registry.build/Objects-normal/i386/PrintTable.o"0#
+
+CCompileC "build/Service Registry.build/Debug-iphonesimulator/Service Registry.build/Objects-normal/i386/PrintTableView.o" "/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/PrintTableView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s390684581.648910
+e390684582.177434
+r1
+xCompileC
+xbuild/Service Registry.build/Debug-iphonesimulator/Service Registry.build/Objects-normal/i386/PrintTableView.o
+x/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/PrintTableView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+occ1obj: warning: -Wuninitialized is not supported without -O
+lSLF07#2@125"Compile /Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/PrintTableView.m390684581#390684582#0(61"cc1obj: warning: -Wuninitialized is not supported without -O1(22@43"-Wuninitialized is not supported without -O390684581#0#61#0(6@0"390684581#0#0#0#0#0"0(0#0#117"/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/PrintTableView.m4317974528#2421"    cd "/Users/nchindafam/Documents/AppTicks/Service Registry"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -Wuninitialized -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/nchindafam/Documents/AppTicks/Service Registry/build/Service Registry.build/Debug-iphonesimulator/Service Registry.build/Service Registry-generated-files.hmap" "-I/Users/nchindafam/Documents/AppTicks/Service Registry/build/Service Registry.build/Debug-iphonesimulator/Service Registry.build/Service Registry-own-target-headers.hmap" "-I/Users/nchindafam/Documents/AppTicks/Service Registry/build/Service Registry.build/Debug-iphonesimulator/Service Registry.build/Service Registry-all-target-headers.hmap" -iquote "/Users/nchindafam/Documents/AppTicks/Service Registry/build/Service Registry.build/Debug-iphonesimulator/Service Registry.build/Service Registry-project-headers.hmap" "-F/Users/nchindafam/Documents/AppTicks/Service Registry/build/Debug-iphonesimulator" "-I/Users/nchindafam/Documents/AppTicks/Service Registry/build/Debug-iphonesimulator/include" "-I/Users/nchindafam/Documents/AppTicks/Service Registry/build/Service Registry.build/Debug-iphonesimulator/Service Registry.build/DerivedSources/i386" "-I/Users/nchindafam/Documents/AppTicks/Service Registry/build/Service Registry.build/Debug-iphonesimulator/Service Registry.build/DerivedSources" -DGDATA_REQUIRE_SERVICE_INCLUDES=1 -DGDATA_INCLUDE_DRIVE_SERVICE=1 -include "/var/folders/hf/dwbsg6_517q86ytfk22zbwg80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Service Registry-Prefix-bpyuklknqcvuacfwgyyhwmeglhcx/Service Registry-Prefix.pch" -c "/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/PrintTableView.m" -o "/Users/nchindafam/Documents/AppTicks/Service Registry/build/Service Registry.build/Debug-iphonesimulator/Service Registry.build/Objects-normal/i386/PrintTableView.o"0#
+
+CCompileC "build/Service Registry.build/Debug-iphonesimulator/Service Registry.build/Objects-normal/i386/ReportsPage.o" "/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/ReportsPage.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s390684581.652979
+e390684581.852562
+r1
+xCompileC
+xbuild/Service Registry.build/Debug-iphonesimulator/Service Registry.build/Objects-normal/i386/ReportsPage.o
+x/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/ReportsPage.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+occ1obj: warning: -Wuninitialized is not supported without -O
+lSLF07#2@122"Compile /Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/ReportsPage.m390684581#390684581#0(61"cc1obj: warning: -Wuninitialized is not supported without -O1(22@43"-Wuninitialized is not supported without -O390684581#0#61#0(6@0"390684581#0#0#0#0#0"0(0#0#114"/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/ReportsPage.m4317974528#2415"    cd "/Users/nchindafam/Documents/AppTicks/Service Registry"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -Wuninitialized -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/nchindafam/Documents/AppTicks/Service Registry/build/Service Registry.build/Debug-iphonesimulator/Service Registry.build/Service Registry-generated-files.hmap" "-I/Users/nchindafam/Documents/AppTicks/Service Registry/build/Service Registry.build/Debug-iphonesimulator/Service Registry.build/Service Registry-own-target-headers.hmap" "-I/Users/nchindafam/Documents/AppTicks/Service Registry/build/Service Registry.build/Debug-iphonesimulator/Service Registry.build/Service Registry-all-target-headers.hmap" -iquote "/Users/nchindafam/Documents/AppTicks/Service Registry/build/Service Registry.build/Debug-iphonesimulator/Service Registry.build/Service Registry-project-headers.hmap" "-F/Users/nchindafam/Documents/AppTicks/Service Registry/build/Debug-iphonesimulator" "-I/Users/nchindafam/Documents/AppTicks/Service Registry/build/Debug-iphonesimulator/include" "-I/Users/nchindafam/Documents/AppTicks/Service Registry/build/Service Registry.build/Debug-iphonesimulator/Service Registry.build/DerivedSources/i386" "-I/Users/nchindafam/Documents/AppTicks/Service Registry/build/Service Registry.build/Debug-iphonesimulator/Service Registry.build/DerivedSources" -DGDATA_REQUIRE_SERVICE_INCLUDES=1 -DGDATA_INCLUDE_DRIVE_SERVICE=1 -include "/var/folders/hf/dwbsg6_517q86ytfk22zbwg80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Service Registry-Prefix-bpyuklknqcvuacfwgyyhwmeglhcx/Service Registry-Prefix.pch" -c "/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/ReportsPage.m" -o "/Users/nchindafam/Documents/AppTicks/Service Registry/build/Service Registry.build/Debug-iphonesimulator/Service Registry.build/Objects-normal/i386/ReportsPage.o"0#
+
+CCompileC "build/Service Registry.build/Debug-iphonesimulator/Service Registry.build/Objects-normal/i386/ReportsPicker.o" "/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/ReportsPicker.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s390684581.655613
+e390684581.791142
+r1
+xCompileC
+xbuild/Service Registry.build/Debug-iphonesimulator/Service Registry.build/Objects-normal/i386/ReportsPicker.o
+x/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/ReportsPicker.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+occ1obj: warning: -Wuninitialized is not supported without -O
+lSLF07#2@124"Compile /Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/ReportsPicker.m390684581#390684581#0(61"cc1obj: warning: -Wuninitialized is not supported without -O1(22@43"-Wuninitialized is not supported without -O390684581#0#61#0(6@0"390684581#0#0#0#0#0"0(0#0#116"/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/ReportsPicker.m4317974528#2419"    cd "/Users/nchindafam/Documents/AppTicks/Service Registry"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -Wuninitialized -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/nchindafam/Documents/AppTicks/Service Registry/build/Service Registry.build/Debug-iphonesimulator/Service Registry.build/Service Registry-generated-files.hmap" "-I/Users/nchindafam/Documents/AppTicks/Service Registry/build/Service Registry.build/Debug-iphonesimulator/Service Registry.build/Service Registry-own-target-headers.hmap" "-I/Users/nchindafam/Documents/AppTicks/Service Registry/build/Service Registry.build/Debug-iphonesimulator/Service Registry.build/Service Registry-all-target-headers.hmap" -iquote "/Users/nchindafam/Documents/AppTicks/Service Registry/build/Service Registry.build/Debug-iphonesimulator/Service Registry.build/Service Registry-project-headers.hmap" "-F/Users/nchindafam/Documents/AppTicks/Service Registry/build/Debug-iphonesimulator" "-I/Users/nchindafam/Documents/AppTicks/Service Registry/build/Debug-iphonesimulator/include" "-I/Users/nchindafam/Documents/AppTicks/Service Registry/build/Service Registry.build/Debug-iphonesimulator/Service Registry.build/DerivedSources/i386" "-I/Users/nchindafam/Documents/AppTicks/Service Registry/build/Service Registry.build/Debug-iphonesimulator/Service Registry.build/DerivedSources" -DGDATA_REQUIRE_SERVICE_INCLUDES=1 -DGDATA_INCLUDE_DRIVE_SERVICE=1 -include "/var/folders/hf/dwbsg6_517q86ytfk22zbwg80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Service Registry-Prefix-bpyuklknqcvuacfwgyyhwmeglhcx/Service Registry-Prefix.pch" -c "/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/ReportsPicker.m" -o "/Users/nchindafam/Documents/AppTicks/Service Registry/build/Service Registry.build/Debug-iphonesimulator/Service Registry.build/Objects-normal/i386/ReportsPicker.o"0#
+
+CCompileC "build/Service Registry.build/Debug-iphonesimulator/Service Registry.build/Objects-normal/i386/ReportsSearch.o" "/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/ReportsSearch.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s390684581.657702
+e390684581.857033
+r1
+xCompileC
+xbuild/Service Registry.build/Debug-iphonesimulator/Service Registry.build/Objects-normal/i386/ReportsSearch.o
+x/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/ReportsSearch.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+occ1obj: warning: -Wuninitialized is not supported without -O
+lSLF07#2@124"Compile /Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/ReportsSearch.m390684581#390684581#0(61"cc1obj: warning: -Wuninitialized is not supported without -O1(22@43"-Wuninitialized is not supported without -O390684581#0#61#0(6@0"390684581#0#0#0#0#0"0(0#0#116"/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/ReportsSearch.m4317974528#2419"    cd "/Users/nchindafam/Documents/AppTicks/Service Registry"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -Wuninitialized -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/nchindafam/Documents/AppTicks/Service Registry/build/Service Registry.build/Debug-iphonesimulator/Service Registry.build/Service Registry-generated-files.hmap" "-I/Users/nchindafam/Documents/AppTicks/Service Registry/build/Service Registry.build/Debug-iphonesimulator/Service Registry.build/Service Registry-own-target-headers.hmap" "-I/Users/nchindafam/Documents/AppTicks/Service Registry/build/Service Registry.build/Debug-iphonesimulator/Service Registry.build/Service Registry-all-target-headers.hmap" -iquote "/Users/nchindafam/Documents/AppTicks/Service Registry/build/Service Registry.build/Debug-iphonesimulator/Service Registry.build/Service Registry-project-headers.hmap" "-F/Users/nchindafam/Documents/AppTicks/Service Registry/build/Debug-iphonesimulator" "-I/Users/nchindafam/Documents/AppTicks/Service Registry/build/Debug-iphonesimulator/include" "-I/Users/nchindafam/Documents/AppTicks/Service Registry/build/Service Registry.build/Debug-iphonesimulator/Service Registry.build/DerivedSources/i386" "-I/Users/nchindafam/Documents/AppTicks/Service Registry/build/Service Registry.build/Debug-iphonesimulator/Service Registry.build/DerivedSources" -DGDATA_REQUIRE_SERVICE_INCLUDES=1 -DGDATA_INCLUDE_DRIVE_SERVICE=1 -include "/var/folders/hf/dwbsg6_517q86ytfk22zbwg80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Service Registry-Prefix-bpyuklknqcvuacfwgyyhwmeglhcx/Service Registry-Prefix.pch" -c "/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/ReportsSearch.m" -o "/Users/nchindafam/Documents/AppTicks/Service Registry/build/Service Registry.build/Debug-iphonesimulator/Service Registry.build/Objects-normal/i386/ReportsSearch.o"0#
+
+CCompileC "build/Service Registry.build/Debug-iphonesimulator/Service Registry.build/Objects-normal/i386/ReportsTable.o" "/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/ReportsTable.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s390684581.681539
+e390684582.116153
+r1
+xCompileC
+xbuild/Service Registry.build/Debug-iphonesimulator/Service Registry.build/Objects-normal/i386/ReportsTable.o
+x/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/ReportsTable.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+occ1obj: warning: -Wuninitialized is not supported without -O
+lSLF07#2@123"Compile /Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/ReportsTable.m390684581#390684582#0(61"cc1obj: warning: -Wuninitialized is not supported without -O1(22@43"-Wuninitialized is not supported without -O390684581#0#61#0(6@0"390684581#0#0#0#0#0"0(0#0#115"/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/ReportsTable.m4317974528#2417"    cd "/Users/nchindafam/Documents/AppTicks/Service Registry"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -Wuninitialized -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/nchindafam/Documents/AppTicks/Service Registry/build/Service Registry.build/Debug-iphonesimulator/Service Registry.build/Service Registry-generated-files.hmap" "-I/Users/nchindafam/Documents/AppTicks/Service Registry/build/Service Registry.build/Debug-iphonesimulator/Service Registry.build/Service Registry-own-target-headers.hmap" "-I/Users/nchindafam/Documents/AppTicks/Service Registry/build/Service Registry.build/Debug-iphonesimulator/Service Registry.build/Service Registry-all-target-headers.hmap" -iquote "/Users/nchindafam/Documents/AppTicks/Service Registry/build/Service Registry.build/Debug-iphonesimulator/Service Registry.build/Service Registry-project-headers.hmap" "-F/Users/nchindafam/Documents/AppTicks/Service Registry/build/Debug-iphonesimulator" "-I/Users/nchindafam/Documents/AppTicks/Service Registry/build/Debug-iphonesimulator/include" "-I/Users/nchindafam/Documents/AppTicks/Service Registry/build/Service Registry.build/Debug-iphonesimulator/Service Registry.build/DerivedSources/i386" "-I/Users/nchindafam/Documents/AppTicks/Service Registry/build/Service Registry.build/Debug-iphonesimulator/Service Registry.build/DerivedSources" -DGDATA_REQUIRE_SERVICE_INCLUDES=1 -DGDATA_INCLUDE_DRIVE_SERVICE=1 -include "/var/folders/hf/dwbsg6_517q86ytfk22zbwg80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Service Registry-Prefix-bpyuklknqcvuacfwgyyhwmeglhcx/Service Registry-Prefix.pch" -c "/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/ReportsTable.m" -o "/Users/nchindafam/Documents/AppTicks/Service Registry/build/Service Registry.build/Debug-iphonesimulator/Service Registry.build/Objects-normal/i386/ReportsTable.o"0#
+
+CCompileC "build/Service Registry.build/Debug-iphonesimulator/Service Registry.build/Objects-normal/i386/ReportsTableView.o" "/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/ReportsTableView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s390684581.791254
+e390684581.964526
+r1
+xCompileC
+xbuild/Service Registry.build/Debug-iphonesimulator/Service Registry.build/Objects-normal/i386/ReportsTableView.o
+x/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/ReportsTableView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+occ1obj: warning: -Wuninitialized is not supported without -O
+lSLF07#2@127"Compile /Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/ReportsTableView.m390684581#390684581#0(61"cc1obj: warning: -Wuninitialized is not supported without -O1(22@43"-Wuninitialized is not supported without -O390684581#0#61#0(6@0"390684581#0#0#0#0#0"0(0#0#119"/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/ReportsTableView.m4317974528#2425"    cd "/Users/nchindafam/Documents/AppTicks/Service Registry"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -Wuninitialized -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/nchindafam/Documents/AppTicks/Service Registry/build/Service Registry.build/Debug-iphonesimulator/Service Registry.build/Service Registry-generated-files.hmap" "-I/Users/nchindafam/Documents/AppTicks/Service Registry/build/Service Registry.build/Debug-iphonesimulator/Service Registry.build/Service Registry-own-target-headers.hmap" "-I/Users/nchindafam/Documents/AppTicks/Service Registry/build/Service Registry.build/Debug-iphonesimulator/Service Registry.build/Service Registry-all-target-headers.hmap" -iquote "/Users/nchindafam/Documents/AppTicks/Service Registry/build/Service Registry.build/Debug-iphonesimulator/Service Registry.build/Service Registry-project-headers.hmap" "-F/Users/nchindafam/Documents/AppTicks/Service Registry/build/Debug-iphonesimulator" "-I/Users/nchindafam/Documents/AppTicks/Service Registry/build/Debug-iphonesimulator/include" "-I/Users/nchindafam/Documents/AppTicks/Service Registry/build/Service Registry.build/Debug-iphonesimulator/Service Registry.build/DerivedSources/i386" "-I/Users/nchindafam/Documents/AppTicks/Service Registry/build/Service Registry.build/Debug-iphonesimulator/Service Registry.build/DerivedSources" -DGDATA_REQUIRE_SERVICE_INCLUDES=1 -DGDATA_INCLUDE_DRIVE_SERVICE=1 -include "/var/folders/hf/dwbsg6_517q86ytfk22zbwg80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Service Registry-Prefix-bpyuklknqcvuacfwgyyhwmeglhcx/Service Registry-Prefix.pch" -c "/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/ReportsTableView.m" -o "/Users/nchindafam/Documents/AppTicks/Service Registry/build/Service Registry.build/Debug-iphonesimulator/Service Registry.build/Objects-normal/i386/ReportsTableView.o"0#
+
+CCompileC "build/Service Registry.build/Debug-iphonesimulator/Service Registry.build/Objects-normal/i386/Service_RegistryAppDelegate.o" "/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/Service_RegistryAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s390684581.852647
+e390684582.014780
+r1
+xCompileC
+xbuild/Service Registry.build/Debug-iphonesimulator/Service Registry.build/Objects-normal/i386/Service_RegistryAppDelegate.o
+x/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/Service_RegistryAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+occ1obj: warning: -Wuninitialized is not supported without -O
+lSLF07#2@138"Compile /Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/Service_RegistryAppDelegate.m390684581#390684582#0(61"cc1obj: warning: -Wuninitialized is not supported without -O1(22@43"-Wuninitialized is not supported without -O390684581#0#61#0(6@0"390684581#0#0#0#0#0"0(0#0#130"/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/Service_RegistryAppDelegate.m4317974528#2447"    cd "/Users/nchindafam/Documents/AppTicks/Service Registry"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -Wuninitialized -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/nchindafam/Documents/AppTicks/Service Registry/build/Service Registry.build/Debug-iphonesimulator/Service Registry.build/Service Registry-generated-files.hmap" "-I/Users/nchindafam/Documents/AppTicks/Service Registry/build/Service Registry.build/Debug-iphonesimulator/Service Registry.build/Service Registry-own-target-headers.hmap" "-I/Users/nchindafam/Documents/AppTicks/Service Registry/build/Service Registry.build/Debug-iphonesimulator/Service Registry.build/Service Registry-all-target-headers.hmap" -iquote "/Users/nchindafam/Documents/AppTicks/Service Registry/build/Service Registry.build/Debug-iphonesimulator/Service Registry.build/Service Registry-project-headers.hmap" "-F/Users/nchindafam/Documents/AppTicks/Service Registry/build/Debug-iphonesimulator" "-I/Users/nchindafam/Documents/AppTicks/Service Registry/build/Debug-iphonesimulator/include" "-I/Users/nchindafam/Documents/AppTicks/Service Registry/build/Service Registry.build/Debug-iphonesimulator/Service Registry.build/DerivedSources/i386" "-I/Users/nchindafam/Documents/AppTicks/Service Registry/build/Service Registry.build/Debug-iphonesimulator/Service Registry.build/DerivedSources" -DGDATA_REQUIRE_SERVICE_INCLUDES=1 -DGDATA_INCLUDE_DRIVE_SERVICE=1 -include "/var/folders/hf/dwbsg6_517q86ytfk22zbwg80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Service Registry-Prefix-bpyuklknqcvuacfwgyyhwmeglhcx/Service Registry-Prefix.pch" -c "/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/Service_RegistryAppDelegate.m" -o "/Users/nchindafam/Documents/AppTicks/Service Registry/build/Service Registry.build/Debug-iphonesimulator/Service Registry.build/Objects-normal/i386/Service_RegistryAppDelegate.o"0#
+
+CCompileC "build/Service Registry.build/Debug-iphonesimulator/Service Registry.build/Objects-normal/i386/Tools.o" "/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/Tools.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s390684581.857184
+e390684582.047816
+r1
+xCompileC
+xbuild/Service Registry.build/Debug-iphonesimulator/Service Registry.build/Objects-normal/i386/Tools.o
+x/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/Tools.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+occ1obj: warning: -Wuninitialized is not supported without -O
+lSLF07#2@116"Compile /Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/Tools.m390684581#390684582#0(61"cc1obj: warning: -Wuninitialized is not supported without -O1(22@43"-Wuninitialized is not supported without -O390684581#0#61#0(6@0"390684581#0#0#0#0#0"0(0#0#108"/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/Tools.m4317974528#2403"    cd "/Users/nchindafam/Documents/AppTicks/Service Registry"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -Wuninitialized -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/nchindafam/Documents/AppTicks/Service Registry/build/Service Registry.build/Debug-iphonesimulator/Service Registry.build/Service Registry-generated-files.hmap" "-I/Users/nchindafam/Documents/AppTicks/Service Registry/build/Service Registry.build/Debug-iphonesimulator/Service Registry.build/Service Registry-own-target-headers.hmap" "-I/Users/nchindafam/Documents/AppTicks/Service Registry/build/Service Registry.build/Debug-iphonesimulator/Service Registry.build/Service Registry-all-target-headers.hmap" -iquote "/Users/nchindafam/Documents/AppTicks/Service Registry/build/Service Registry.build/Debug-iphonesimulator/Service Registry.build/Service Registry-project-headers.hmap" "-F/Users/nchindafam/Documents/AppTicks/Service Registry/build/Debug-iphonesimulator" "-I/Users/nchindafam/Documents/AppTicks/Service Registry/build/Debug-iphonesimulator/include" "-I/Users/nchindafam/Documents/AppTicks/Service Registry/build/Service Registry.build/Debug-iphonesimulator/Service Registry.build/DerivedSources/i386" "-I/Users/nchindafam/Documents/AppTicks/Service Registry/build/Service Registry.build/Debug-iphonesimulator/Service Registry.build/DerivedSources" -DGDATA_REQUIRE_SERVICE_INCLUDES=1 -DGDATA_INCLUDE_DRIVE_SERVICE=1 -include "/var/folders/hf/dwbsg6_517q86ytfk22zbwg80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Service Registry-Prefix-bpyuklknqcvuacfwgyyhwmeglhcx/Service Registry-Prefix.pch" -c "/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/Tools.m" -o "/Users/nchindafam/Documents/AppTicks/Service Registry/build/Service Registry.build/Debug-iphonesimulator/Service Registry.build/Objects-normal/i386/Tools.o"0#
+
+CCompileC "build/Service Registry.build/Debug-iphonesimulator/Service Registry.build/Objects-normal/i386/UserSearch.o" "/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/UserSearch.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s390684581.967025
+e390684582.045907
+r1
+xCompileC
+xbuild/Service Registry.build/Debug-iphonesimulator/Service Registry.build/Objects-normal/i386/UserSearch.o
+x/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/UserSearch.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+occ1obj: warning: -Wuninitialized is not supported without -O
+lSLF07#2@121"Compile /Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/UserSearch.m390684581#390684582#0(61"cc1obj: warning: -Wuninitialized is not supported without -O1(22@43"-Wuninitialized is not supported without -O390684581#0#61#0(6@0"390684581#0#0#0#0#0"0(0#0#113"/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/UserSearch.m4317974528#2413"    cd "/Users/nchindafam/Documents/AppTicks/Service Registry"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -Wuninitialized -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/nchindafam/Documents/AppTicks/Service Registry/build/Service Registry.build/Debug-iphonesimulator/Service Registry.build/Service Registry-generated-files.hmap" "-I/Users/nchindafam/Documents/AppTicks/Service Registry/build/Service Registry.build/Debug-iphonesimulator/Service Registry.build/Service Registry-own-target-headers.hmap" "-I/Users/nchindafam/Documents/AppTicks/Service Registry/build/Service Registry.build/Debug-iphonesimulator/Service Registry.build/Service Registry-all-target-headers.hmap" -iquote "/Users/nchindafam/Documents/AppTicks/Service Registry/build/Service Registry.build/Debug-iphonesimulator/Service Registry.build/Service Registry-project-headers.hmap" "-F/Users/nchindafam/Documents/AppTicks/Service Registry/build/Debug-iphonesimulator" "-I/Users/nchindafam/Documents/AppTicks/Service Registry/build/Debug-iphonesimulator/include" "-I/Users/nchindafam/Documents/AppTicks/Service Registry/build/Service Registry.build/Debug-iphonesimulator/Service Registry.build/DerivedSources/i386" "-I/Users/nchindafam/Documents/AppTicks/Service Registry/build/Service Registry.build/Debug-iphonesimulator/Service Registry.build/DerivedSources" -DGDATA_REQUIRE_SERVICE_INCLUDES=1 -DGDATA_INCLUDE_DRIVE_SERVICE=1 -include "/var/folders/hf/dwbsg6_517q86ytfk22zbwg80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Service Registry-Prefix-bpyuklknqcvuacfwgyyhwmeglhcx/Service Registry-Prefix.pch" -c "/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/UserSearch.m" -o "/Users/nchindafam/Documents/AppTicks/Service Registry/build/Service Registry.build/Debug-iphonesimulator/Service Registry.build/Objects-normal/i386/UserSearch.o"0#
+
+CCompileC "build/Service Registry.build/Debug-iphonesimulator/Service Registry.build/Objects-normal/i386/UserTable.o" "/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/UserTable.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s390684581.988558
+e390684582.121950
+r1
+xCompileC
+xbuild/Service Registry.build/Debug-iphonesimulator/Service Registry.build/Objects-normal/i386/UserTable.o
+x/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/UserTable.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+occ1obj: warning: -Wuninitialized is not supported without -O
+lSLF07#2@120"Compile /Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/UserTable.m390684581#390684582#0(61"cc1obj: warning: -Wuninitialized is not supported without -O1(22@43"-Wuninitialized is not supported without -O390684582#0#61#0(6@0"390684582#0#0#0#0#0"0(0#0#112"/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/UserTable.m4317974528#2411"    cd "/Users/nchindafam/Documents/AppTicks/Service Registry"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -Wuninitialized -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/nchindafam/Documents/AppTicks/Service Registry/build/Service Registry.build/Debug-iphonesimulator/Service Registry.build/Service Registry-generated-files.hmap" "-I/Users/nchindafam/Documents/AppTicks/Service Registry/build/Service Registry.build/Debug-iphonesimulator/Service Registry.build/Service Registry-own-target-headers.hmap" "-I/Users/nchindafam/Documents/AppTicks/Service Registry/build/Service Registry.build/Debug-iphonesimulator/Service Registry.build/Service Registry-all-target-headers.hmap" -iquote "/Users/nchindafam/Documents/AppTicks/Service Registry/build/Service Registry.build/Debug-iphonesimulator/Service Registry.build/Service Registry-project-headers.hmap" "-F/Users/nchindafam/Documents/AppTicks/Service Registry/build/Debug-iphonesimulator" "-I/Users/nchindafam/Documents/AppTicks/Service Registry/build/Debug-iphonesimulator/include" "-I/Users/nchindafam/Documents/AppTicks/Service Registry/build/Service Registry.build/Debug-iphonesimulator/Service Registry.build/DerivedSources/i386" "-I/Users/nchindafam/Documents/AppTicks/Service Registry/build/Service Registry.build/Debug-iphonesimulator/Service Registry.build/DerivedSources" -DGDATA_REQUIRE_SERVICE_INCLUDES=1 -DGDATA_INCLUDE_DRIVE_SERVICE=1 -include "/var/folders/hf/dwbsg6_517q86ytfk22zbwg80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Service Registry-Prefix-bpyuklknqcvuacfwgyyhwmeglhcx/Service Registry-Prefix.pch" -c "/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/../../ServiceRegistry/Classes/UserTable.m" -o "/Users/nchindafam/Documents/AppTicks/Service Registry/build/Service Registry.build/Debug-iphonesimulator/Service Registry.build/Objects-normal/i386/UserTable.o"0#
+
+CCompileC "build/Service Registry.build/Debug-iphonesimulator/Service Registry.build/Objects-normal/i386/main.o" "/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s390684580.832035
+e390684581.369618
+r0
+xCompileC
+xbuild/Service Registry.build/Debug-iphonesimulator/Service Registry.build/Objects-normal/i386/main.o
+x/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+occ1obj: warning: -Wuninitialized is not supported without -O
+o/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/main.m:11:24: error: AppDelegate.h: No such file or directory
+o/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/main.m: In function 'main':
+o/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/main.m:15: error: expected expression before '@' token
+lSLF07#2@85"Compile /Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/main.m390684580#390684581#0(419"cc1obj: warning: -Wuninitialized is not supported without -O/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/main.m:11:24: error: AppDelegate.h: No such file or directory/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/main.m: In function 'main':/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/main.m:15: error: expected expression before '@' token3(22@43"-Wuninitialized is not supported without -O390684580#0#61#0(6@0"390684580#0#0#0#0#0"0(4@40"AppDelegate.h: No such file or directory390684580#61#133#0(6@77"/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/main.m390652457#11#0#11#0#28"*: No such file or directory0(4@36"Expected expression before '@' token390684580#293#126#0(6@77"/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/main.m390652457#15#0#15#0#19"expected * before *0(0#0#77"/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/main.m4317974528#2371"    cd "/Users/nchindafam/Documents/AppTicks/Service Registry"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -Wuninitialized -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/nchindafam/Documents/AppTicks/Service Registry/build/Service Registry.build/Debug-iphonesimulator/Service Registry.build/Service Registry-generated-files.hmap" "-I/Users/nchindafam/Documents/AppTicks/Service Registry/build/Service Registry.build/Debug-iphonesimulator/Service Registry.build/Service Registry-own-target-headers.hmap" "-I/Users/nchindafam/Documents/AppTicks/Service Registry/build/Service Registry.build/Debug-iphonesimulator/Service Registry.build/Service Registry-all-target-headers.hmap" -iquote "/Users/nchindafam/Documents/AppTicks/Service Registry/build/Service Registry.build/Debug-iphonesimulator/Service Registry.build/Service Registry-project-headers.hmap" "-F/Users/nchindafam/Documents/AppTicks/Service Registry/build/Debug-iphonesimulator" "-I/Users/nchindafam/Documents/AppTicks/Service Registry/build/Debug-iphonesimulator/include" "-I/Users/nchindafam/Documents/AppTicks/Service Registry/build/Service Registry.build/Debug-iphonesimulator/Service Registry.build/DerivedSources/i386" "-I/Users/nchindafam/Documents/AppTicks/Service Registry/build/Service Registry.build/Debug-iphonesimulator/Service Registry.build/DerivedSources" -DGDATA_REQUIRE_SERVICE_INCLUDES=1 -DGDATA_INCLUDE_DRIVE_SERVICE=1 -include "/var/folders/hf/dwbsg6_517q86ytfk22zbwg80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Service Registry-Prefix-bpyuklknqcvuacfwgyyhwmeglhcx/Service Registry-Prefix.pch" -c "/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/main.m" -o "/Users/nchindafam/Documents/AppTicks/Service Registry/build/Service Registry.build/Debug-iphonesimulator/Service Registry.build/Objects-normal/i386/main.o"1#
+
+CCopyStringsFile "/Users/nchindafam/Documents/AppTicks/Service Registry/build/Debug-iphonesimulator/Service Registry.app/en.lproj/InfoPlist.strings" "Service Registry/en.lproj/InfoPlist.strings"
+s390684582.220599
+e390684583.042007
+r1
+xCopyStringsFile
+x/Users/nchindafam/Documents/AppTicks/Service Registry/build/Debug-iphonesimulator/Service Registry.app/en.lproj/InfoPlist.strings
+xService Registry/en.lproj/InfoPlist.strings
+lSLF07#2@48"Copy Service Registry/en.lproj/InfoPlist.strings390684582#390684583#0(0"0(0#0#97"/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/en.lproj/InfoPlist.strings4317974528#545"    cd "/Users/nchindafam/Documents/AppTicks/Service Registry"    setenv ICONV /usr/bin/iconv    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding binary "Service Registry/en.lproj/InfoPlist.strings" --outdir "/Users/nchindafam/Documents/AppTicks/Service Registry/build/Debug-iphonesimulator/Service Registry.app/en.lproj"0#
+
+CCpResource "build/Debug-iphonesimulator/Service Registry.app/Default-568h@2x.png" "Service Registry/Default-568h@2x.png"
+s390684582.222099
+e390684582.340549
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Service Registry.app/Default-568h@2x.png
+xService Registry/Default-568h@2x.png
+lSLF07#2@41"Copy Service Registry/Default-568h@2x.png390684582#390684582#0(0"0(0#0#90"/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/Default-568h@2x.png4317974528#554"    cd "/Users/nchindafam/Documents/AppTicks/Service Registry"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/Default-568h@2x.png" "/Users/nchindafam/Documents/AppTicks/Service Registry/build/Debug-iphonesimulator/Service Registry.app"0#
+
+CCpResource "build/Debug-iphonesimulator/Service Registry.app/Default.png" "Service Registry/Default.png"
+s390684582.221234
+e390684582.338946
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Service Registry.app/Default.png
+xService Registry/Default.png
+lSLF07#2@33"Copy Service Registry/Default.png390684582#390684582#0(0"0(0#0#82"/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/Default.png4317974528#546"    cd "/Users/nchindafam/Documents/AppTicks/Service Registry"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/Default.png" "/Users/nchindafam/Documents/AppTicks/Service Registry/build/Debug-iphonesimulator/Service Registry.app"0#
+
+CCpResource "build/Debug-iphonesimulator/Service Registry.app/Default@2x.png" "Service Registry/Default@2x.png"
+s390684582.221668
+e390684582.339870
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Service Registry.app/Default@2x.png
+xService Registry/Default@2x.png
+lSLF07#2@36"Copy Service Registry/Default@2x.png390684582#390684582#0(0"0(0#0#85"/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/Default@2x.png4317974528#549"    cd "/Users/nchindafam/Documents/AppTicks/Service Registry"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/Default@2x.png" "/Users/nchindafam/Documents/AppTicks/Service Registry/build/Debug-iphonesimulator/Service Registry.app"0#
+
+CCpResource "build/Debug-iphonesimulator/Service Registry.app/Headers" ../../../../../Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/System/Library/Frameworks/GameKit.framework/Headers
+s390684582.222533
+e390684582.502558
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Service Registry.app/Headers
+x../../../../../Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/System/Library/Frameworks/GameKit.framework/Headers
+lSLF07#2@172"Copy ../../../../../Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/System/Library/Frameworks/GameKit.framework/Headers390684582#390684582#0(0"0(0#0#221"/Users/nchindafam/Documents/AppTicks/Service Registry/../../../../../Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/System/Library/Frameworks/GameKit.framework/Headers4317974528#685"    cd "/Users/nchindafam/Documents/AppTicks/Service Registry"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/nchindafam/Documents/AppTicks/Service Registry/../../../../../Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/System/Library/Frameworks/GameKit.framework/Headers" "/Users/nchindafam/Documents/AppTicks/Service Registry/build/Debug-iphonesimulator/Service Registry.app"0#
+
+CDataModelVersionCompile "/Users/nchindafam/Documents/AppTicks/Service Registry/build/Debug-iphonesimulator/Service Registry.app/Service_Registry.momd" "/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/Service_Registry.xcdatamodeld"
+s390684580.831147
+e390684582.130395
+r1
+xDataModelVersionCompile
+x/Users/nchindafam/Documents/AppTicks/Service Registry/build/Debug-iphonesimulator/Service Registry.app/Service_Registry.momd
+x/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/Service_Registry.xcdatamodeld
+lSLF07#2@145"DataModelVersionCompile "build/Debug-iphonesimulator/Service Registry.app/Service_Registry.momd" "Service Registry/Service_Registry.xcdatamodeld"390684580#390684582#0(0"0(0#0#100"/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/Service_Registry.xcdatamodeld4317974528#481"    cd "/Users/nchindafam/Documents/AppTicks/Service Registry"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/momc -XD_MOMC_TARGET_VERSION=10.6 "/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/Service_Registry.xcdatamodeld" "/Users/nchindafam/Documents/AppTicks/Service Registry/build/Debug-iphonesimulator/Service Registry.app/Service_Registry.momd"0#
+
+CGenerateDSYMFile "/Users/nchindafam/Documents/AppTicks/Service Registry/build/Debug-iphonesimulator/Service Registry.app.dSYM" "/Users/nchindafam/Documents/AppTicks/Service Registry/build/Debug-iphonesimulator/Service Registry.app/Service Registry"
+r0
+
+CLd "/Users/nchindafam/Documents/AppTicks/Service Registry/build/Debug-iphonesimulator/Service Registry.app/Service Registry" normal i386
+r0
+
+CProcessInfoPlistFile "/Users/nchindafam/Documents/AppTicks/Service Registry/build/Debug-iphonesimulator/Service Registry.app/Info.plist" "Service Registry/Service Registry-Info.plist"
+s390684579.393686
+e390684579.540097
+r1
+xProcessInfoPlistFile
+x/Users/nchindafam/Documents/AppTicks/Service Registry/build/Debug-iphonesimulator/Service Registry.app/Info.plist
+xService Registry/Service Registry-Info.plist
+lSLF07#2@52"Process Service Registry/Service Registry-Info.plist390684579#390684579#0(0"0(0#0#98"/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/Service Registry-Info.plist17250253568#576"    cd "/Users/nchindafam/Documents/AppTicks/Service Registry"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility "Service Registry/Service Registry-Info.plist" -genpkginfo "/Users/nchindafam/Documents/AppTicks/Service Registry/build/Debug-iphonesimulator/Service Registry.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/nchindafam/Documents/AppTicks/Service Registry/build/Debug-iphonesimulator/Service Registry.app/Info.plist"0#
+
+CProcessPCH "/var/folders/hf/dwbsg6_517q86ytfk22zbwg80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Service Registry-Prefix-bpyuklknqcvuacfwgyyhwmeglhcx/Service Registry-Prefix.pch.gch" "Service Registry/Service Registry-Prefix.pch" normal i386 objective-c com.apple.compilers.gcc.4_2
+s390684579.540200
+e390684580.831014
+r1
+xProcessPCH
+x/var/folders/hf/dwbsg6_517q86ytfk22zbwg80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Service Registry-Prefix-bpyuklknqcvuacfwgyyhwmeglhcx/Service Registry-Prefix.pch.gch
+xService Registry/Service Registry-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+occ1obj: warning: -Wuninitialized is not supported without -O
+lSLF07#2@55"Precompile Service Registry/Service Registry-Prefix.pch390684579#390684580#0(61"cc1obj: warning: -Wuninitialized is not supported without -O1(22@43"-Wuninitialized is not supported without -O390684580#0#61#0(6@0"390684580#0#0#0#0#0"0(0#0#98"/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/Service Registry-Prefix.pch4317974528#2237"    cd "/Users/nchindafam/Documents/AppTicks/Service Registry"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -Wuninitialized -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/nchindafam/Documents/AppTicks/Service Registry/build/Service Registry.build/Debug-iphonesimulator/Service Registry.build/Service Registry-generated-files.hmap" "-I/Users/nchindafam/Documents/AppTicks/Service Registry/build/Service Registry.build/Debug-iphonesimulator/Service Registry.build/Service Registry-own-target-headers.hmap" "-I/Users/nchindafam/Documents/AppTicks/Service Registry/build/Service Registry.build/Debug-iphonesimulator/Service Registry.build/Service Registry-all-target-headers.hmap" -iquote "/Users/nchindafam/Documents/AppTicks/Service Registry/build/Service Registry.build/Debug-iphonesimulator/Service Registry.build/Service Registry-project-headers.hmap" "-F/Users/nchindafam/Documents/AppTicks/Service Registry/build/Debug-iphonesimulator" "-I/Users/nchindafam/Documents/AppTicks/Service Registry/build/Debug-iphonesimulator/include" "-I/Users/nchindafam/Documents/AppTicks/Service Registry/build/Service Registry.build/Debug-iphonesimulator/Service Registry.build/DerivedSources/i386" "-I/Users/nchindafam/Documents/AppTicks/Service Registry/build/Service Registry.build/Debug-iphonesimulator/Service Registry.build/DerivedSources" -DGDATA_REQUIRE_SERVICE_INCLUDES=1 -DGDATA_INCLUDE_DRIVE_SERVICE=1 -c "/Users/nchindafam/Documents/AppTicks/Service Registry/Service Registry/Service Registry-Prefix.pch" -o "/var/folders/hf/dwbsg6_517q86ytfk22zbwg80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Service Registry-Prefix-bpyuklknqcvuacfwgyyhwmeglhcx/Service Registry-Prefix.pch.gch"0#
+
+CTouch "/Users/nchindafam/Documents/AppTicks/Service Registry/build/Debug-iphonesimulator/Service Registry.app"
+r0
+
